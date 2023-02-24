@@ -1,0 +1,4359 @@
+اسد,Asad
+عشور,Ashour
+علي,Ali
+انطوني,Antony
+علاء,Aalaa
+الاء,Alaa
+اسلم,Aslam
+اولي جاما,Aweli jama
+انس,Anas
+عبود,Abood
+احمد,Ahmad
+اكرم,Akram
+امين,Ameen
+امجد,Amjad
+عَمر,Amr
+انيس,Anis
+عمار,Ammar
+عطه,Atah
+ايمن,Ayman
+اديب,Adeeb
+عفيفة,Afifah
+عيني,Aini
+امل,Amal
+عامر,Amer
+Amir,امير
+Amira,اميره
+افرا,Afra
+الماس,Almas
+امينة,Aminah
+اية,Ayh
+ابدقاني,Abdiqani
+افنان,Afnan
+امت السلام,Amtalslam
+انابيا,Anabia
+عايشة,Aysha
+اكمل,Akmal
+ابيل,Abeel
+بشار,Bashar
+برهان,Burhan
+باسل,Bassel
+بسيم,Bassim
+بشر,Bishr
+بهاء,Baha
+بهير,Baahir
+باسم,Basam
+بلال,Bilal
+بدر	Badr
+بدر الدين,Badr al din
+بركة,Barakah
+بسيل,Basil
+بطرس,Butrus
+بشرى,Bushra
+كارمين,Carmen
+قنطرة,Cantara
+كايتلين,Caitlyn
+شمس,Chamis
+دوانا,Dowana
+دابر,Dabir
+ضياء الدين,Diya al din
+ضحى,Duha
+دلال,Dalal
+دانيا,Dania
+ضياء,Diyaa
+امير,Emir
+عصام,Esam
+عصام	Essam
+إيهاب,Ehab
+إميلي,Emily
+فرحان,Farhan
+فَلاح,Falah
+فادي,Fady
+فريدفس,Firdevs
+فوزية,Fawzia
+غريس,Grace
+غبريالا,Gabriella
+حسام,Haussam
+هيثم,Haytham
+حيدر,Haider
+حسن,Hassan
+حمزة,Hamza
+هيفى	Hayfa
+هيفاء,Haifa
+هجرى,Hajrah
+حفصى,Hafsa
+هبة,Hiba
+هاجر,Hager
+هداية,Hedaya
+حنان,Hanan
+عصام,Issam
+إسهامي,Ishaml
+عزتي,Izzati
+إيمان,Iman
+إسراء,Israa
+عزة,Izza
+يشم,Jasham
+جاويد=,Jawid
+جوهرة,Jawhara
+جفريا,Javaria
+جميلة,Jamila
+كريم,Karim
+خليل,Khalil
+خالد,Khalid
+خضر,Khuder
+خديجة,Khadija
+لقمان الحكيم,Luqman Hakim
+لينا,Lina
+ليلى,Laila
+ليلى,Layla
+مصطفى,Mustafa
+محمد,Mohamed
+مشتاق,Mushtak
+ماهر,Maher
+مبارك,Mobarak
+محمود,Mahmood
+مهند,Muhanad
+منتهى,Muntaha
+مينى,Minna
+محسنة,Mouhsina
+نديم,Nadeem
+نينوس,Ninos
+نسيم,Nassim
+نور,Nour
+نظيف,Nazhif
+ناصر,Nasser
+نبيل,Nabil
+نصر,Nasr
+نغمة,Nagma
+نفين,Nivin
+نايف,Naif
+نسمة,Nisma
+نجاة,Najat
+نجية,Najiya
+نجمة,Najma
+نادين,Nadine
+اسامة,Osama
+عمر,Omar
+اسامة,Osamaa
+بيتر,Peter
+قاسم,Qasim
+رشيد,Rashid
+ريم,Reem
+راما,Rama
+روان,Rawan
+روبي,Ruba
+سعيد,Saeed
+صلاح,Salah
+سامر,Samer
+صبري,Sabri
+صالح,Saleh
+جميل,Shezan
+شمامة,Shamama
+شهد,Shahed
+سناء,Sanaa
+شوكيرا,Shukria
+صفاء,Safa
+شذى,Shaza
+سهام,Siham
+سالي,Sali
+سوزان,Suzan
+سمر,Samar
+سامية,Samia
+تامر,Tamer
+تميم,Tamim
+طلعت,Talaat
+تمار,Tamar
+توشانا,Toshana
+امل الخير,Ummul khair
+وليد,Waleed
+وسام,Wissam
+وجه,Wajeh
+وجدي,Wajdi
+وادي,Wadi
+وحيد,Wahid
+وجيه,Wajih
+وجيه	Wajeeh
+وكيل,Wakil
+وليد,Waleed
+وليد	Walid
+ولي الله,Walliyullah
+وسيم,Wasim
+وسيم	Waseem
+وزير,Wazir
+وقار,Waqar
+وفى,Wafa
+يحيى,Yahiya
+يعقوب,Yacoob
+ياسمين,Yasmine
+يسرى,Yusra
+يمنى,Youmna
+زفير,Zafir
+زاهذ,Zahid
+ظهير,Zahir
+زيد,Zaid
+زيد	Zayd
+زيم,Zaim
+زكريا,Zakariyya
+زكي,Zaki
+زكية,Zakiy
+زياد,Ziad
+زهير,Zuhair
+ذو الفقار,Zul fiqar
+زهيرة,Zohaira
+زارا,Zara
+عالية  ,Aaliyah
+امنة  ,Aaminah
+امر  ,Aamir
+عباس  ,Abbas
+Abu Bakr,ابو بكر
+Awni,عوني
+Aron,آرون
+Abd elhai,عبد الحي
+Abd elghafour,عبد الغفور
+Abd elghafar,عبد الغفار
+Abd elhakim,عبد الحكيم
+Abd elhalim,عبد الحليم
+Abd elwahab,عبد الوهاب
+Abd allah,عبد الله
+Abd elmoteleb,عبد المطلب
+Abd eltawab,عبد التواب
+Abd elmajeed,عبد المجيد
+Abd elshafi,عبد الشافي
+Abd elghani,عبد الغني
+Abd elkodos,عبد القدوس
+عبد الحميد,Abd elhamid
+عبد الكريم,Abd elkarim
+عبد اللطيف,Abd ellatif
+عبد القادر,Abd elqadir
+عبد الرشيد,Abd elrashid
+عبد الرحمن,Abd elrahman
+عبد الرشيد,Abd elrashid
+Abd elsamad,عبد الصمد
+Abd elbadee,عبد البديع
+Abd elmoeen,عبد المعين
+Abd elsamme,عبد السميع
+Abd elsalam,عبد السلام
+ابو  ,Abu
+ابو بكر  ,Abu bakr
+ادم  ,Adam
+عادل  ,Adil
+عدنان  ,Adnan
+عفيف  ,Afif
+افضل  ,Afzal
+احمد  ,Ahmed
+عائشة  ,'aisha
+عائشة  ,Aisha
+اكرم  ,Akram
+علاء الدين  ,Ala al-din
+علي  ,'ali
+علياء  ,Alia
+علية  ,Aliyah
+علية  ,Aliyyah
+علياء  ,Alya
+اماني  ,Amani
+امنة	Amina
+امينة  ,Amina
+امينة  ,Aminah
+اميرة  ,Amira
+امجد  ,Amjad
+عمار  ,Ammar
+انس  ,Anas
+انيس  ,Anis
+انور  ,Anwar
+عاقل  ,Aqil
+اريج  ,Arij
+اسعد  ,As'ad
+اشفاق  ,Ashfaq
+اصف  ,Asif
+اسمى  ,Asma
+اسرى  ,Asra
+عطاء الله  ,Atallah
+عاطف  ,Atif
+عطية  ,Atiya
+عائدة  ,Ayda
+عائشة  ,Ayishah
+ايوب  ,Ayyub
+عزيز  ,'aziz
+عذراء  ,Azra
+بهاء  ,Baha
+بهيجة  ,Bahiga
+بهيجة  ,Bahija
+باقي  ,Baki
+باقي  ,Baqi
+باراك  ,Barack
+بركات  ,Barakat
+باسم  ,Basim
+بصير  ,Basir
+باسط  ,Basit
+بسام  ,Bassam
+بتول  ,Batul
+بنيامين  ,Binyamin
+بولس  ,Boulos
+بدور  ,Budur
+برهان  ,Burhan
+دلال  ,Dalal
+دانية  ,Dania
+دانيال  ,Danyal
+داود  ,Dawood
+ديمة  ,Dema
+ضياء  ,Diya
+دعاء  ,Dua
+إبراهيم  ,Ebrahim
+عيسى  ,Essa
+فادية  ,Fadia
+فاضلة  ,Fadila
+فهد  ,Fahd
+فهمة  ,Fahima
+فائز  ,Faiz
+فيصل  ,Faizel
+فخري  ,Fakhri
+فرج  ,Farag
+فرج  ,Faraj
+فريد  ,Farid
+فرحة  ,Fariha
+فاروق  ,Farooq
+فرح  ,Farrah
+فاروق  ,Faruq
+فتحية  ,Fathiyya
+فاطمة  ,Fatimah
+فطين  ,Fatin
+فوزي  ,Fawzi
+فوزية  ,Fawziyya
+فيروز  ,Fayruz
+فائزة  ,Fayza
+فضة  ,Fidda
+فكري  ,Fikri
+فردوس  ,Firdaus
+فضة  ,Fizza
+فؤاد  ,Fuad
+جبر  ,Gabr
+جلال  ,Galal
+جمال  ,Gamal
+جميلة  ,Gamila
+جواهر  ,Gauhar
+جودت  ,Gawdat
+غادة  ,Ghada
+غالب  ,Ghalib
+غسان  ,Ghassan
+غفران  ,Ghufran
+جودة  ,Guda
+حبيبة  ,Habiba
+هادي  ,Hadi
+هديل  ,Hadil
+هدية  ,Hadiyya
+هادية  ,Hadya
+حفيظ  ,Hafiz
+حفصة  ,Hafsah
+هاجر  ,Hagir
+حيدر  ,Haider
+هاجر  ,Hajar
+حكيم  ,Hakim
+حليم  ,Halim
+حميد  ,Hameed
+حميدة  ,Hamida
+هناء  ,Hana
+حنان  ,Hanan
+هنية  ,Hania
+حنيفة  ,Hanifa
+هنية  ,Haniyya
+حارث  ,Harith
+هارون  ,Harun
+هاشم  ,Hashim
+حاسم  ,Hasim
+حسان  ,Hassan
+حواء  ,Hawa
+هيفاء  ,Hayfa
+هشام  ,Hesham
+حكمة  ,Hikmat
+حسين  ,Hisein
+هدى  ,Hooda
+حسام  ,Hossam
+حسام  ,Houssam
+حسين  ,Husain
+حسين  ,Husayn
+حسني  ,Husni
+حسين  ,Hussain
+حيدر  ,Hyder
+إبراهيم  ,Ibrahim
+إبتسام  ,Ibtisam
+إيهاب  ,Ihab
+إكرام  ,Ikraam
+إلهام  ,Ilham
+عماد  ,Imad
+إيمان  ,Iman
+عمرام  ,Imram
+إمتياز  ,Imtiyaz
+إيناس  ,Inas
+عرفان  ,Irfan
+عصام  ,'isam
+إسماعيل  ,Isma'il
+عصمة  ,'ismat
+إسراء  ,Israa
+اعتدال  ,I'tidal
+إزدهار  ,Izdihar
+عز الدين  ,Izz ud-din
+جابر  ,Jabir
+جبريل  ,Jabril
+جعفر  ,Jaffar
+جلال  ,Jalal
+جليلة  ,Jalila
+جمال  ,Jamal
+جميلة  ,Jameela
+جميلة  ,Jamila
+جنان  ,Janan
+جاذبية  ,Jathibiyya
+جودت  ,Jawdat
+جنان  ,Jinan
+جمانة  ,Jumana
+جنيد  ,Junaid
+قدير  ,Kader
+كامل  ,Kamil
+كريم  ,Kareem
+كريمة  ,Karima
+خديجة  ,Khadija
+خليل  ,Khaleel
+خالدة  ,Khalida
+خليل  ,Khalil
+خليق  ,Khaliq
+خيرات  ,Khayrat
+خيرية  ,Khayriyya
+ليلى  ,Laila
+لميس  ,Lamis
+لطيفة  ,Lateefah
+لطيفة  ,Latifa
+ليلى  ,Leila
+لينا  ,Lina
+لجين  ,Lujayn
+لطفي  ,Lutfi
+مهاة  ,Maha
+محفوظ  ,Mahfuz
+محمود  ,Mahmood
+محمود  ,Mahmud
+مكرم  ,Makram
+ملك  ,Malak
+ملكة  ,Malika
+منصور  ,Mansur
+مريم  ,Mariam
+مريم  ,Maryam
+مسعود  ,Masoud
+معصومة  ,Masuma
+مدحة  ,Midha
+محمد  ,Mihammad
+معراج  ,Miraj
+مسعد  ,Mis'id
+محمد  ,Mohammad
+منى  ,Mona
+منى  ,Mouna
+مبينة  ,Mubina
+محمد  ,Muhammad
+محسن  ,Muhsin
+مختار  ,Mukhtar
+مؤمنة  ,Mumina
+منى  ,Muna
+منيرة  ,Munira
+مراد  ,Murad
+مرتضى  ,Murtaza
+مسعد  ,Mus'ad
+مصطفى  ,Mustapha
+معتصم  ,Mu'tasim
+نبيلة  ,Nabila
+نادر  ,Nader
+نديم  ,Nadim
+نادرة  ,Nadira
+نضرة  ,Nadra
+نجي  ,Nagi
+نائل  ,Nail
+نعيم  ,Na'im
+نجي  ,Naji
+نجوى  ,Najwa
+نصير  ,Naseer
+نسيب  ,Nasib
+ناصر	Nasir
+نصير  ,Nasir
+ناصر  ,Nasser
+نويد  ,Naveed
+نوال  ,Nawal
+نزيه  ,Nazih
+نظلي  ,Nazli
+نعمة  ,Nima
+نزار  ,Nizar
+نور  ,Nour
+نهى  ,Nuha
+نورة  ,Nura
+عمر  ,Omar
+قدير  ,Qadir
+قاسم  ,Qasim
+قصي  ,Qusay
+رباب  ,Rabab
+ربيعة  ,Rabi'a
+رفيق  ,Rafiq
+راحة  ,Rahat
+رحيم  ,Rahim
+رئيس  ,Rais
+رجاء  ,Raja
+رجية  ,Rajiya
+رمضان  ,Ramadan
+رملة  ,Ramlah
+رندة  ,Randa
+رانية  ,Ranya
+رشاد  ,Rashad
+رشيد  ,Rasheed
+رشيدة	Rashida
+راشدة  ,Rashida
+راسمة  ,Rasima
+رؤوف  ,Rauf
+راوية  ,Rawya
+ريحانة  ,Rayhana
+رضاء  ,Reda
+رياض  ,Riad
+رضاء  ,Rida
+رضوان  ,Ridwan
+رفعة  ,Rifat
+ريم  ,Rim
+رضوانة  ,Rizwana
+روح  ,Ruh
+رقية  ,Ruqayyah
+رواء  ,Ruwa
+سعادة  ,Sa'adat
+عز الدين  ,Sabah ud-din
+صبري  ,Sabri
+سعد  ,Sa'd
+صدام  ,Saddam
+سعدية  ,Sa'dia
+صفية  ,Safiya
+سحر  ,Sahar
+سعيدة  ,Sa'ida
+سيف الدين  ,Saif al-din
+سيف الله  ,Saifullah
+صخر  ,Sakhr
+صلاح  ,Salah
+سليم  ,Saleem
+صالحة  ,Salha
+صالحة  ,Saliha
+سليم  ,Salim
+سلمى  ,Salma
+سلوة  ,Salwah
+سمر  ,Samar
+سميرة  ,Sameera
+سامية  ,Samia
+سمير  ,Samir
+سامية  ,Samiya
+سني  ,Sani
+سنية  ,Sanya
+سارة  ,Sarah
+سيد  ,Sayyid
+سليمة  ,Selima
+شادي  ,Shadi
+شادية  ,Shadya
+شفيق  ,Shafiq
+شهد  ,Shahd
+شهيرة  ,Shahira
+شهرزاد  ,Shahrazad
+شهزاد  ,Shahzad
+شكيل  ,Shakeel
+شكيلة  ,Shakila
+شاكرة  ,Shakira
+شكورة  ,Shakura
+شمس الدين  ,Shams al-din
+شريف  ,Shareef
+شريف  ,Sharif
+شيماء  ,Shayma
+شريف  ,Sherif
+شكري  ,Shukri
+ويليام,William
+شكرية  ,Shukriyya
+سها  ,Suha
+سهيلة  ,Suhaila
+سليمان  ,Sulaiman
+سلطان  ,Sultan
+سمية  ,Sumayya
+ثرية	Surayya
+ثريا	Surayya
+طه  ,Taha
+طاهرة  ,Tahira
+تاج  ,Taj
+طلعت  ,Tal'at
+طالبة  ,Taliba
+طارق  ,Tarek
+طارق  ,Tariq
+توفيق  ,Tawfiq
+طيب  ,Tayyib
+ثامر  ,Thamir
+طوبى  ,Tuba
+عمر  ,Umar
+عثمان  ,Usman
+عظمى  ,Uzma
+وفائي  ,Wafai
+وفية  ,Wafiya
+وحيدة  ,Waheeda
+وحيدة  ,Wahida
+وقار  ,Waqar
+وسيم  ,Wasim
+وداد  ,Widad
+يعقوب  ,Yakub
+يعقوب  ,Yaqub
+ياسين  ,Yasin
+يسمين  ,Yasmeen
+يسمين  ,Yasmine
+يوسف  ,Yousef
+يوحنا  ,Yuhanna
+يوسف  ,Yusef
+يسرى  ,Yusra
+زاهر  ,Zaahir
+زاهرة  ,Zaahira
+زاهية  ,Zahia
+زاهدة  ,Zahida
+ظهيرة  ,Zahira
+زهرة  ,Zahrah
+زينة  ,Zaina
+زكريا  ,Zakaria
+زكريا  ,Zakariyya
+ذكية  ,Zakiah
+ذكية  ,Zakiyya
+زين  ,Zayn
+زينب  ,Zaynab
+زياد  ,Ziad
+زينة  ,Zinat
+ضياء الدين  ,Ziya al-din
+زبيدة  ,Zubaida
+زليخا  ,Zulekha
+ذو الفقار  ,Zulfikar
+محمد,Mahammad
+حصة,Hissa
+ثابت,Thaabit
+زياد,Ziyaad
+زهراء,Zahraa
+خالد,Khaalid
+البندري,Albandari
+عثمان,Osmaan
+شيخ,Sheikh
+باسل,Baasil
+مزمل,Muzzamil
+معتصم,Mutasim
+وسام,Wisaam
+جميلة,Jameela
+عائشة,Aisha
+امل,Amal
+جواهر,Jawaahir
+رغد,Ragd
+ليث,Layth
+ضحى,Duha
+فادي,Faadi
+باسمة,Baasima
+اكرم,Akram
+خديجة,Khadiija
+فاطمة,Faatima
+عجلان,Ajlaan
+حرم,Haram
+ريم,Reem
+مروة,Marwa
+ميادة,Maiyaada
+إيمان,Emaan
+لولوة,Luluah
+نورة,Nuura
+جاسم,Jaasim
+هيا,Haya
+سلطان,Sultaan
+منتظر,Muntazar
+علي,Ali
+لطفي,Lutfi
+نجاة,Najat
+لطيفة,Lateefa
+حمد,Hamad
+ماجدة,Maajida
+موزة,Moza
+سعدون,Saduun
+عزيزة,Azeeza
+امينة,Ameena
+سالم,Saalim
+رامي,Raami
+بسام,Bassaam
+جون غارانغ,John Garang
+كيزو اوبوتشي,Kizo Obutchi
+ديانا لوبيز,Diana López
+ونستون تشرشل,Winston Churchill
+ديفيد بيكهام,David Beckham
+البرت اينشتاين,Albert Einstein
+بوب مارلي,Bob Marley
+مارلين مونرو,Marilyn Monroe
+نيلسون مانديلا,Nelson Mandela
+لويس مورينو اوكامبو,Luis Morinho Okampo
+اسامة بن لادن,Usama bin Ladin
+ري تشارلز,Ray Charles
+ليوناردو دافينشي,Leonardo daVinci
+هوك هوغان,Hulk Hogan
+هو جنتاو,Hu Jintau
+دييغو مارادونا,Diego Maradona
+البيرتو فوجيموري,Alberto Fujimori
+ويليام شكسبير,William Shakespeare
+اوبرا وينفري,Oprah Winfrey
+جيمس كاميرون,James Cameron
+الطيب صالح,Altayib Salih
+ماريا كيري,Maria Cary
+التون جون,Alton John
+هيديكي يوكاوا,Hedeki Yukawa
+خوزيه كورتيز,Jose Cortez
+مارتينا نافراتيلوفا,Martina Navrátilová
+نجيب محفوظ,Najib Mahfudh
+ايمن الظواهري,Ayman Alzawahri
+اوليفر كان,Oliver Kahn
+لاري كينغ,Larry King
+ناستازيا كينسكي,Nastassja Kinski
+ياني خريسوماليس,Yanni Christomalis
+ماريا كلاس,Maria Klaas
+مايك اولدفيلد,Mike Oldfield
+جاك كوستو,Jacques Cousteau
+جوزيبي فيردي,Giuseppe Verdi
+جاك شيراك,Jacques Chirac
+مارتن لوثر,Martin Luther
+بروس لي,Bruce Lee
+فرح عيديد,Farah Eided
+جوزف كوني,Joseph Koni
+يوري اندروبوف,Yuri Andropov
+مايكل جوردان,Michael Jordan
+نييل ارمسترونغ,Neil Armstrong
+الشاب خالد,Cheb Khalid
+ماجدة الرومي,Majda Alrumi
+انديرا غاندي,Andira Ghandi
+برفيز مشرف,Pervez Musharraf
+جاكي شان,Jackie Chan
+هيفاء وهبي,Haifa Wahbe
+زيغر,Dzegar
+زيواك,Dziwak
+زيغ,Dzeg
+زيراك,Dzerak
+خبلواك,Khapluwak
+خوزشيت,Khodzshit
+خيال,Khayal
+خاورين,Khawrin
+خيبر,Khaybar
+بانغة,Panga
+برخة,Parkha
+بتاسة,Pitasa
+بيروزة,Peruza
+توربيكي,Torpekeiy
+توتكي,Totkeiy
+تنكي,Tankeiy
+زانغة,Tsanga
+زلبلة,Dzalbala
+زولي,Dzoleiy
+خزانة,Khazana
+يوغرتن,Yugerten
+توفايور,Tufayur
+تنسن,Tinsin
+تليتماس,Tlaytmas
+تازرزت,Tazerzît
+ميسر,Maysar
+سادن,Saden
+تحيات,Taheyyâtt
+سينيمان,Siniman
+بكوس,Bukkus
+إيرات,Irat
+إتو,Ittû
+مسيفسن,Misifsen
+تامانارت,Tamanart
+تاسافوت,Tasafut
+إزمرسن,Izemrasen
+ماغر,Magher
+إغدير,Igider
+عزة,Izza
+لونجا,Lunja
+تسفاي,Tesfaye
+غرماي,Girmaye
+اسفا,Assefa
+دقا,Dagga
+برهان,Berhane
+توجو,Tojo
+يوهانس,Yohans
+منليك,Menielk
+كيداني,Kidany
+غيتاتشو,Getachew
+برهي,Berhy
+ستوتو,Stetew
+الولا,Alola
+ترحاص,Tirhas
+هيمانوت,Haymanot
+تزازو,Tazazu
+مالس,Melesse
+هايلي,Hayli
+يوردانوس,Yordanos
+برخت,Berkhet
+راجا,Raja
+إيشانا,Ishana
+موهان,Mohan
+ديفاكي,Devaki
+راشانا,Rachana
+روهان,Rohan
+غيتا,Gita
+سانجاي,Sanjay
+رافي,Ravi
+ساتيا,Satya
+فاسانتا,Vasanti
+كافيندرا,Kavindra
+لكشمي,Lakshmi
+فيجاي,Vijay
+شاكتي,Shakti
+دارشان,Darshan
+ديفا,Deva
+شاندرا,Chandra
+اجاي,Ajay
+انيلا,Anila
+سارة,Sarah
+راشيل,Rachel
+إستر,Esther
+هانا,Hannah
+ميريام,Miriam
+ريبيكا,Rebecca
+شوشانا,Shoshana
+مالكا,Malka
+ماريا,Maria
+كلارا,Clara
+ديبورا,Deborah
+يهوديت,Judith
+انا,Anna
+فريدا,Fridah
+بيلا,Bella
+دينا,Dina
+باتيا,Batya
+ريجينا,Regina
+تحية,Tahia
+سونيا,Sonia
+نعومي,Naomi
+تمارا,Tamara
+ليزا,Lisa
+جينيا,Genia
+كوهن,Cohen
+ليفي,Levi
+مزراحي,Mizrahi
+كاتز,Katz
+فريدمان,Friedman
+سيغال,Segal
+ابراهام,Abraham
+غرينبرغ,Greenberg
+اشكنازي,Ashkenazi
+روزنبرغ,Rosenberg
+بيتون,Beaton
+ديفيد,David
+غولدشتاين,Goldstein
+فيلدمان,Feldman
+يوسف,Joseph
+مئير,Meir
+غولدبرغ,Goldberg
+موسى,Moses
+سليمان,Solomon
+يعقوب,Jacob
+إسحاق,Isaac
+ساسون,Sasson
+جولدمان,Goldman
+روبن,Robin
+ليبرمان,Lieberman
+ناحوم,Nahum
+ادلر,Adler
+شتاين,Stein
+هيرش,Hirsch
+عوفاديا,Ovadia
+إسرائيل,Israel
+الباز,Elbaz
+إيليا,Elijah
+عزرا,Ezra
+ابراموف,Abramov
+شموئيل,Samuel
+هوشنغ,Houshang
+فرساد,Farsad
+جهان,ناز
+مهرانغيز,Mehrangiz
+فرشید,Farshid
+شاهزادة,Shahzadeh
+زرافشان,Zarafshan
+بريجهرة,Parichehreh
+فاروج,Varoozh
+سبنتا,Sepanta
+شیرویه,Shirouyeh
+ارفانة,Arvaneh
+فرجفند,Varjavand
+دلیلة,Dalileh
+تبسم,Tabassum
+يزدغرد,Yazdgerd
+جالة,Zhaleh
+صدري,Sadri
+تشنغيز,Changiz
+طوسك,Tousak
+مروان,Marwan
+ميرهم,Mirham
+قاسملو,Qasimlo
+بخشين,Bikhshin
+كرزان,Karzan
+كرسو,Kasrow
+بيشنغ,Bishang
+فينو,Veno
+خانه,Khanah
+فراشين,Farashin
+إيويش,Ewish
+إكرام,Ekram
+فيروز,Firoz
+هادي,Hady
+حكيم,Hakym
+غشيلان,Gushilan
+جورين,Joryn
+كليجان,Kalijan
+لاليخان,Lalikhan
+غفو,Gafu
+جوهر,Jawhar
+لرزانه,Larzana
+ليفكن,Levkan
+مارين,Maryn
+فردوس,Firdaws
+فراش,Farash
+ميناس,Manas
+بيزير,Pezer
+باكان,Pakan
+هيلان,Helan
+بوريس,Boris
+بافيل,Pavel
+فلاديمير,Vladimir
+نيكولاي,Nikulay
+اليكساندر,Alexander
+ديميتري,Dimitry
+اولغا,Olga
+بيتر,Peter
+ناتاليا,Natalia
+سيرجي,Sergy
+اليكسي,Alexy
+كسينيا,Xenia
+يلينا,Ylena
+إيكاترينا,Ykatrina
+اندريا,Andria
+اليكساندرا,Alexandra
+ادينا,Adina
+ماريا,Maria
+فاديم,Vadim
+اوكسانا,Oxana
+برفيز,Parvaiz
+بينيظير,Benazir
+ميرزا,Mirza
+نسيمة,Nasimah
+سردار,Sardar
+رفيق,خان
+افتخار,Eftikhar
+سرتاج,Sartaj
+عفراء,Afra
+بهروز,Behruz
+بانو,Bano
+شريف,Sharif
+جهانغير,خان
+جميلة,Jamila
+تشودري,Choderi
+مشتاق,Mushtaq
+قدير,Qadir
+فرح,Farah
+برفين,Parwin
+نديمة,Nadimah
+بولنت,Bulant
+اهميت,Ahmat
+هميرا,Humayra
+هسين,Husayn
+فكرية,Fikriyah
+ايسل,Aysal
+اغا,Aga
+بنّور,Binnur
+هاليل,Halil
+بهلول,Behlul
+إسمت,Ismat
+إيفّت,Effat
+اكشاي,Akshay
+إيزت,Ezzat
+براك,Burak
+اردهان,Ardahan
+إلهان,Elhan
+إلكر,Elkar
+بهار,Bahar
+ايبوكه,Aybuka
+إيزابيل,Isabel
+شاكيرا,Shakira
+اليخاندرو,Alejandro
+غرازيانو,Graziano
+كارلوس, Carlos
+لويجي, Luigi
+كلارابيلا,Clarabella
+بيدرو, Pedro
+باولينا,Paolina
+فاليري,Vallerie
+خافيير,Javier
+بيير,Pierre
+روبن,Robin
+نيكولاوس,Nikolaus
+سوزي,Susie
+رولاند, Rolland
+فيليس,Phillis
+إليزابيتا,Elisabetta
+دومينيك,Dominique
+سركيس,Sarkis
+هوندا,Honda
+تاكيشي,Takeshi
+ماروكو,Maruko
+ماساكو,Masako
+ماسارو,Masaru
+سوزوكي,Suzuki
+كيمكو,Kimiko
+ساكاموتو,Sakamoto
+شينجي,Shinji
+شيزوكا,Shizuka
+تويودا,Toyoda
+ساتوشي,Satoshi
+شيماموتو,Shimamoto
+كاوازاكي,Kawazaki
+إزايا,Izaya
+ميزوتاني,Mizutani
+إتشيرو,Ichiro
+ناكاجيما,Nakajima
+موراتا,Murata
+هينومارو,Hinomaru
+المساعفه,Almasaafa
+الشمري,Ash-shimmiri
+فضل الله,Fadl-lallah
+حفناوي,Hafnaawi
+حسنين,Hasanen
+قائد,Gaayid
+الدوسري,Ad-dawsari
+خلايلة,khalaaylah
+باعبود,Ba-abbud
+كاظم,Kaadhim
+الرملاوي,Ar-ramlaawi
+بوزيان,Buzyaan
+الخوري,Alkhuuri
+بنسعيد,Binsaaid
+البشير,Albashir
+العلوي,Alalawi
+الإدريسي,lydrisi
+مهدي,Mahdi
+فرغلي,Farghali
+شنب,Shanab
+الشيباني,Ash-shaybaani
+الحربي,Alharbi
+البلاونة,Albalaawnah
+بودربالة,Budarbaala
+الهيتي,Alheeti
+الهنائي,Al-hanaei
+الحمصي,Alhimsi
+البلوشي,Albalushy
+القليوبي,Alqalyuubi
+الضوء,Aldaw
+ملاسي,Mallasi
+العسكري,Alaskari
+الفزاني,Alfazzaani
+الذيابات,Adh-dhiyaabat
+الكباشي,Alkabbaashi
+العجمي,Alajami
+الشراح,Ash-sharraah
+القلاف,Alqallaaf
+الجيلاني,Aljelaani
+الاخرس,Al-akhras
+البلوشي,Al-baluushi
+المحروقي,Al-mahruuqi
+النجار,An-naggaar
+المجيد,Almajeed
+عواملة,Awamla
+حجو,Haj-ju
+اللبابيدي,Al-labaabidi
+يحيى,Yahia
+تجاني,Tijaani
+التريكي,At-tireki
+ارون,Aaron
+اليكسيس,Alexis
+انجيلينا,Angelina
+عباس,Abbas
+الفريد,Alfred
+انجيلين,Angeline
+ابي,Abby
+الفريدو,Alfredo
+انجي,Angie
+عبدل,Abdul
+علي,Ali
+انيطا,Anita
+ابيغيل,Abigail
+اليس,Alice
+ان,Ann
+ادا,Ada
+اليسيا,Alicia
+انا,Anna
+ادم,Adam
+اليسا,Alisa
+ان,Anne
+ادي,Addie
+اليشا,Alisha
+انيت,Annette
+اديلي,Adele
+اليسون,Alison
+اني,Annie
+اديلين,Adeline
+الان,Allan
+انثوني,Anthony
+ادريان,Adrian
+الين,Allen
+انطوانيط,Antoinette
+ادريانا,Adriana
+اليسون,Allison
+انطونيا,Antonia
+ادريان,Adrienne
+الما,Alma
+انطونيو,Antonio
+افضل,Afzal
+الطا,Alta
+ابريل,April
+اكنيس,Agnes
+الفين,Alvin
+عرف,Araf
+احمد,Ahmed
+اليسا,Alyssa
+ارلين,Arlene
+ايدا,Aida
+اماندا,Amanda
+ارماندو,Armando
+ايلين,Aileen
+امبر,Amber
+ارنولد,Arnold
+إيمي,Aimee
+اميليا,Amelia
+ارثر,Arthur
+عائشة,Aisha
+امين,Amin
+اشلي,Ashley
+اكبر,Akbar
+إيمي,Amy
+اشرف,Ashraf
+اكرم,Akram
+انا,Ana
+اسلم,Aslam
+علم,Alam
+اندري,Andre
+عصمة,Asmat
+الان,Alan
+اندريا,Andrea
+اوديري,Audrey
+البيرت,Albert
+اندرو,Andrew
+اورورا,Aurora
+البيرتا,Alberta
+اندي,Andy
+عائشة,Ayesha
+البيرطو,Alberto
+انجيل,Angel
+عزام,Azam
+اليكس,Alex
+انجيلا,Angela
+الزهرة,Azara
+اليكسندر,Alexander
+انجيليا,Angelia
+عزيز,Aziz
+اليكسندرا,Alexandra
+انجيليكا,Angelica
+بدر,Badar
+بيتسي,Betsy
+برادلي,Bradley
+بدور,Badhur
+بيتي,Bette
+براندي,Brandi
+باربارا,Barbara
+بيتي,Bettie
+براندون,Brandon
+بيري,Barry
+بيتي,Betty
+براندي,Brandy
+بشير,Bashir
+بولاه,Beulah
+بريندا,Brenda
+بياتريس,Beatrice
+بيفيرلي,Beverly
+برينت,Brent
+بياتريس,Beatriz
+بيل,Bill
+بريت,Brett
+بيكي,Becky
+بيلي,Billie
+برايان,Brian
+بيليندا,Belinda
+بيلي,Billy
+بريدجيت,Bridget
+بين,Ben
+بلانكا,Blanca
+بريطاني,Brittany
+بنجامين,Benjamin
+بلونش,Blanche
+بريتني,Brittney
+بيرنارديت,Bernadette
+بوب,Bob
+بروك,Brooke
+بيرنارد,Bernard
+بوبي,Bobbi
+بروس,Bruce
+بيرنيس,Bernice
+بوبي,Bobbie
+برايان,Bryan
+بيرثا,Bertha
+بوبي,Bobby
+بيرون,Byron
+بيسي,Bessie
+بونيطا,Bonita
+بيث,Beth
+بوني ,Bonnie
+بيثاني,Bethany
+براد,Brad
+كيتلين,Caitlin
+سيسيل,Cecile
+كلاريس,Clarice
+كالي,Callie
+سيسيليا,Cecilia
+كلود,Claude
+كالفين,Calvin
+سيليستي,Celeste
+كلوديت,Claudette
+كاميل,Camille
+سيليا ,Celia
+كلوديا,Claudia
+كانديس,Candace
+تشاد,Chad
+كلايطون,Clayton
+كانديس,Candice
+تشارلين,Charlene
+كلو,Cleo
+كاندي,Candy
+تشارلز,Charles
+كليفورد,Clifford
+كارا,Cara
+تشارلي,Charlie
+كليفطون,Clifton
+كارل,Carl
+تشارلوط,Charlotte
+كلينطون,Clinton
+كارلا,Carla
+تشيلسيا,Chelsea
+كلايد,Clyde
+كارلوس,Carlos
+تشيري ,Cheri
+كودي,Cody
+كارميلا,Carmela
+تشيري ,Cherie
+كولين,Colleen
+كارمين,Carmen
+تشيريل,Cheryl
+كوني,Connie
+كارول,Carol
+تشيستر,Chester
+كونسطانس,Constance
+كارول,Carole
+كريس,Chris
+كورا,Cora
+كارولينا,Carolina
+كريستا,Christa
+كوري,Corey
+كارولينا,Caroline
+كريستي,Christi
+كورين,Corinne
+كارولين,Carolyn
+كريستيان,Christian
+كوري,Cory
+كيري,Carrie
+كريستي,Christie
+كورتني,Courtney
+كيسي,Casey
+كريستينا,Christina
+كريك,Craig
+كاساندرا,Cassandra
+كريستين,Christine
+كريستينا,Cristina
+كيسي,Cassie
+كريستوفر,Christopher
+كريسطال,Crystal
+كاثرين,Catherine
+كريستي,Christy
+كورتيس,Curtis
+كاثلين,Cathleen
+سيندي,Cindy
+سينثيا,Cynthia
+كاثي,Cathy
+كلير,Claire
+سيسيليا,Cecelia
+كلارا,Clara
+سيسيل ,Cecil
+كلارونس,Clarence
+ديزي,Daisy
+ديانا,Deanna
+دايان,Dianne
+ديل,Dale
+ديبي,Debbie
+دينا,Dina
+دان,Dan
+ديبرا,Debora
+ديكسي,Dixie
+دانا,Dana
+ديبرا,Deborah
+دولي,Dolly
+دانييل,Daniel
+ديبرا,Debra
+دولوريس,Dolores
+دانييل,Danielle
+دي,Dee
+دومينيك,Dominique
+داني,Danny
+ديليا,Delia
+دون,Don
+دافني,Daphne
+ديلا,Della
+دونالد,Donald
+دارلا,Darla
+ديلوريس,Delores
+دونا ,Donna
+دارلين,Darlene
+ديلوريس,Deloris
+دورا,Dora
+ديريل,Darrell
+دينا,Dena
+دورين,Doreen
+دارين,Darren
+دينيس,Denise
+دوريس,Doris
+ديريل,Darryl
+دينيس,Dennis
+دورثي,Dorothea
+ديريل,Daryl
+ديريك,Derek
+دورثي,Dorothy
+ديف,Dave
+ديريك,Derrick
+دورثي,Dorthy
+ديفيد,David
+ديزيري,Desiree
+دوغلاس,Douglas
+دون,Dawn
+دايانا,Diana
+دوان,Duane
+دين,Dean
+دايان ,Diane
+داستين,Dustin
+ديانا,Deana
+دايانا,Dianna
+دوين,Dwayne
+دوايت,Dwight
+اورل,Earl
+إيلين,Ellen
+اسبيرانسا,Esperanza
+إيبوني,Ebony
+إلما,Elma
+إيسي,Essie
+إيدي,Eddie
+إلمير,Elmer
+إيسطيلا,Estella
+يدكار,Edgar
+إلويز,Eloise
+إيسطيل,Estelle
+إيديث,Edith
+إلسا,Elsa
+ايستير,Ester
+إيدنا,Edna
+السي,Elsie
+ايسثير,Esther
+إيدواردو,Eduardo
+إلفا,Elva
+إيثيل,Ethel
+إدوارد,Edward
+الفيرا,Elvira
+إيطا,Etta
+إدوين,Edwin
+إميلي,Emily
+اوجين,Eugene
+إيفي,Effie
+إيما,Emma
+اوجينيا,Eugenia
+إيلين,Eileen
+إنريكي,Enrique
+اولا,Eula
+إلين,Elaine
+إيريك,Eric
+اونيس,Eunice
+إيلينور,Eleanor
+إيريكا,Erica
+إيفا,Eva
+إلينا,Elena
+ايريك,Erik
+ايفيلين,Evelyn
+إليسا,Elisa
+ايريكا,Erika
+ايفيريت,Everett
+إليزابيث,Elisabeth
+إيرين,Erin
+إليسا,Elise
+إيرما,Erma
+إليزابيث,Elizabeth
+ايرنست,Ernest
+إلا,Ella
+إرنيستين,Ernestine
+فيث,Faith
+فيرناندو,Fernando
+فرانكي,Frankie
+فيني,Fannie
+فلورا,Flora
+فرانكلين,Franklin
+فاروق,Farrukh
+فلورانس,Florence
+فريد,Fred
+فاطمة,Fatima
+فلويد,Floyd
+فريدا,Freda
+فاطمة,Fatima
+فرانسيس,Frances
+فريدي,Freddie
+فاي,Fay
+فرانسين,Francine
+فريديريك,Frederick
+فاي,Faye
+فرانسيس,Francis
+فريدا,Frieda
+فيليسيا,Felicia
+فرانسيسكا,Francisca
+فيليكس,Felix
+فرانسيسكو,Francisco
+فيرن,Fern
+فرانك,Frank
+غابرييل,Gabriel
+حبيب,Habib
+اين,Ian
+غابرييلا,Gabriela
+حافظ,Hafeez
+إبراهيم,Ibrahim
+غابرييل,Gabrielle
+حليم,Halim
+إيدا,Ida
+كايل,Gail
+حامد,Hamid
+إفتخار,Ifrikhar
+كايل,Gale
+حنيف,Hanif
+إفتقار,Ifthikar
+غيري,Gary
+هانا حنا,Hannah
+ايموجين,Imogene
+كايل,Gayle
+حق,Haq
+اينا,Ina
+جين,Gene
+هارولد,Harold
+إيناس,Inez
+جينيفا,Geneva
+هارييت,Harriet
+إينكريد,Ingrid
+جورج,George
+هاري,Harry
+إقبال,Iqbal
+جورجيا,Georgia
+هارفي,Harvey
+ايرين,Irene
+جيرالد,Gerald
+إريس,Iris
+جيرالدين,Geraldine
+هاشم,Hashim
+إيرما,Irma
+غطار,Ghatar
+هاتي,Hattie
+ايزاك,Isaac
+غلام,Ghulam
+هيزيل,Hazel
+إيزابيل,Isabel
+كيلبيرت,Gilbert
+هيثير,Heather
+إيزابيل,Isabelle
+جينا,Gina
+هيكتور,Hector
+إسماعيل,Ismael
+جينجر,Ginger
+هايدي,Heidi
+عصمة,Ismat
+كلاديس,Gladys
+هيلين,Helen
+إيفا,Iva
+كلين,Glen
+هيلينا,Helena
+ايفان,Ivan
+كليندا,Glenda
+هيلين,Helene
+ايفي,Ivy
+كلين,Glenn
+هينري,Henry
+كلينا,Glenna
+هيربيرت,Herbert
+كلوريا,Gloria
+هيرمان,Herman
+كلودي,Goldie
+هيلدا,Hilda
+غوردون,Gordon
+هولي,Holly
+كريس,Grace
+هوب ,Hope
+كريسي,Gracie
+هاوارد,Howard
+كريك,Greg
+حسين,Hussain
+غريغوري,Gregory
+غريتشن,Gretchen
+غوادالوبي,Guadalupe
+غلاب,Gulab
+كوين,Gwen
+جاك,Jack
+جينين,Jeannine
+جول,Joel
+جاكي,Jackie
+جيف,Jeff
+جوهانا,Johanna
+جاكلين,Jaclyn
+جيفري,Jeffery
+جون,John
+جاكوب,Jacob
+جيفري,Jeffrey
+جوني,Johnnie
+جاكلين,Jacqueline
+جينيفر,Jenifer
+جوني,Johnny
+جاكلين,Jacquelyn
+جينا,Jenna
+جولين,Jolene
+جعفر,Jafar
+جيني,Jennie
+جون,Jon
+جيمي,Jaime
+جينيفر,Jennifer
+جوناثان,Jonathan
+جميلة,Jameelah
+جيني,Jenny
+جوني,Joni
+جميلار,Jameelar
+جيريمي,Jeremy
+جوردان,Jordan
+جيمس,James
+جيروم,Jerome
+خورخي,Jorge
+جيمي,Jamie
+جيري,Jerry
+خوسي,Jose
+جان,Jan
+جيسي,Jesse
+جوزيفينا,Josefina
+جانا,Jana
+جيسيكا,Jessica
+جوزيف ,Joseph
+جين,Jane
+جيسي,Jessie
+جوزيفين,Josephine
+جانيل,Janelle
+جيسي,Jessie
+جاشوا,Joshua
+جانيط,Janet
+جيسوس,Jesus
+جوزي,Josie
+جانيط,Janette
+جول,Jewel
+جوي,Joy
+جانيس,Janice
+جول,Jewell
+جويس,Joyce
+جيني,Janie
+جيل,Jill
+خوان,Juan
+جينين,Janine
+جيليان,Jillian
+خوانا,Juana
+جانيس,Janis
+جيم,Jim
+خوانيطا,Juanita
+جارود,Jared
+جيمي,Jimmie
+جوديث,Judith
+جاسمين,Jasmine
+جيمي,Jimmy
+جودي,Judy
+جيسون,Jason
+جو,Jo
+جوليا,Julia
+جافيير,Javier
+جوان,Joan
+جوليان,Julian
+جي,Jay
+جوان,Joann
+جولي,Julie
+جين,Jayne
+جوانا,Joanna
+خوليو,Julio
+جين,Jean
+جوان,Joanne
+جون,June
+جينيط,Jeanette
+جوسلين,Jocelyn
+جاستين,Justin
+جينين,Jeanine
+جودي,Jodi
+جوستين,Justine
+جين,Jeanne
+جودي,Jodie
+جينيط,Jeannette
+جودي,Jody
+جيني,Jeannie
+جو,Joe
+كارا,Kara
+ليسي,Lacey
+لوريطا,Loretta
+كيرين,Karen
+لادونا,Ladonna
+لوري,Lori
+كاري,Kari
+لانا ,Lana
+لوري,Lorie
+كيرين,Karin
+لانس,Lance
+لورنا,Lorna
+كارل,Karl
+لارا,Lara
+لورين,Lorraine
+كارلا,Karla
+ليري,Larry
+لوتي,Lottie
+كايت,Kate
+لاطاشا,Latasha
+لو,Lou
+كاثارين,Katharine
+لطيف,Latif
+لويس,Louis
+كاثلين,Kathleen
+لاطونيا,Latonya
+لويز,Louise
+كاثرين,Kathryn
+لاطويا,Latoya
+لوردس,Lourdes
+كاثي,Kathy
+لورا,Laura
+لوسيا,Lucia
+كاتي,Katie
+لوريل,Laurel
+لوسيل,Lucile
+كاترينا,Katrina
+لورين,Lauren
+لوسيل,Lucille
+كي ,Kay
+لوري,Laurie
+لوسيندا,Lucinda
+كايلا,Kayla
+لورنس,Lawrence
+لوسي,Lucy
+كيشا,Keisha
+ليا,Lea
+لويلا,Luella
+كيث,Keith
+لياه,Leah
+لويس,Luis
+كيلي,Kelley
+ليان,Leanne
+لولا,Lula
+كيلي,Kelli
+لي,Lee
+لوبي,Lupe
+كيلي,Kellie
+لي,Lee
+لوس,Luz
+كيلي,Kelly
+ليلى,Lela
+ليديا,Lydia
+كيلي,Kelly
+لينا,Lena
+ليندا,Lynda
+كيلسي,Kelsey
+لينورا,Lenora
+لينيت,Lynette
+كين,Ken
+ليو,Leo
+لين,Lynn
+كيندا,Kendra
+ليولا,Leola
+لين,Lynne
+كينيث,Kenneth
+ليون,Leon
+كينت,Kent
+ليونا,Leona
+كيري,Keri
+ليونارد,Leonard
+كيري,Kerri
+ليروي,Leroy
+كيري,Kerry
+ليسلي,Lesley
+كيفين,Kevin
+ليسلي,Leslie
+خالد,Khalid
+ليسلي,Leslie
+خالق,Khaliq
+ليستير,Lester
+كيم,Kim
+ليتيشيا,Leticia
+كيمبرلي,Kimberley
+ليويس,Lewis
+كيمبرلي,Kimberly
+ليلى,Lila
+كيرك,Kirk
+ليليان,Lillian
+كيرستين,Kirsten
+ليلي,Lillie
+كريستا,Krista
+ليلي,Lily
+كريستين,Kristen
+ليندا,Linda
+كريستي,Kristi
+لينزي,Lindsay
+كريستي,Kristie
+لينزي,Lindsey
+كريستن,Kristin
+ليسا,Lisa
+كريستينا,Kristina
+ليزي,Lizzie
+كريستين,Kristine
+لويد,Lloyd
+كريستي,Kristy
+لولا,Lola
+كريستال,Krystal
+لوني,Lonnie
+كلثوم,Kulsum
+لورا,Lora
+كورت,Kurt
+لورينا,Lorena
+كايل,Kyle
+لورين,Lorene
+ميبيل,Mabel
+مارجوري,Marjorie
+ميشيل,Micheal
+ميبل,Mable
+مارك,Mark
+ميشيل,Michele
+مادلين,Madeline
+مارلا,Marla
+ميشيل,Michelle
+ماي,Mae
+مارلين,Marlene
+ميغيل,Miguel
+ماكي,Maggie
+مارشال,Marshall
+مايك,Mike
+محود,Mahoud
+مارطا,Marta
+ميلدريد,Mildred
+مالك,Malik
+مارثا,Martha
+ميلي,Millie
+مامي,Mamie
+مارتين,Martin
+ميلطون,Milton
+ماندي,Mandy
+مارتينا,Martina
+ميندي,Mindy
+مانويل,Manuel
+مارفين,Marvin
+ميني,Minnie
+مانويلا,Manuela
+ميري,Mary
+مير,Mir
+مارك,Marc
+ميريان,Maryann
+مراج,Miraj
+مارسيلا,Marcella
+ماسور,Massur
+ميراندا,Miranda
+مارسيا,Marcia
+مسعود,Masud
+ميريام,Miriam
+ماركوس,Marcus
+ماثيو,Mathew
+ميستي,Misty
+ميرسي,Marcy
+ماثيو,Matthew
+ميتشل,Mitchell
+مارغاريت,Margaret
+ماتي,Mattie
+محمد,Mohammad
+مارغاريطا,Margarita
+مود,Maude
+محمد,Mohammed
+مارجي,Margie
+مورين,Maureen
+مولي,Mollie
+مارغو,Margo
+موريس,Maurice
+مولي,Molly
+مارغريت,Margret
+ميفيس,Mavis
+منى,Mona
+ماريا,Maria
+ماكس,Max
+مونيكا,Monica
+ماريان,Marian
+مايرا,Mayra
+مونيك,Monique
+ماريان,Marianne
+ميغان,Megan
+مورغان,Morgan
+ماريبيل,Maribel
+ميغان,Meghan
+موريس,Morris
+ميري,Marie
+ميلاني,Melanie
+مبشر,Mubashir
+مارلين,Marilyn
+ميلبا,Melba
+مختار,Mukhtar
+مارينا,Marina
+ميليندا,Melinda
+موريل,Muriel
+ماريو,Mario
+ميليسا,Melissa
+مزمل,Muzzamil
+ماريون,Marion
+ميلودي,Melody
+مايرا,Myra
+ماريسا,Marisa
+ميلفين,Melvin
+ميرنا,Myrna
+ماريسول,Marisol
+ميرسيديس,Mercedes
+ميرتل,Myrtle
+ماريسا,Marissa
+ميريديث,Meredith
+نادين,Nadine
+ناديه,Nadya
+Nadya,نادية
+Nada,ندي
+Nada,ندى
+نريمان,Nariman
+اولى,Ola
+بيدج,Paige
+نجمة,Najma
+اولغا,Olga
+بام,Pam
+نانسي,Nancy
+اوليف,Olive
+باميلا,Pamela
+ناومي,Naomi
+اوليفيا,Olivia
+بافين,Parveen
+نسيم,Naseema
+اولي,Ollie
+بات,Pat
+نصرة,Nasrat
+اوبال,Opal
+باتريسا,Patrica
+نسرين,Nasreen
+اورا,Ora
+باتريس,Patrice
+ناطالي,Natalie
+اوسكار,Oscar
+باتريسيا,Patricia
+ناطاشا,Natasha
+باتريك,Patrick
+نيثان,Nathan
+باتسي,Patsy
+نيل,Neil
+باتي,Patti
+نيل,Nell
+باتي,Patty
+نيلي,Nellie
+بول,Paul
+نيلسون,Nelson
+باولا,Paula
+نيتي,Nettie
+بوليط,Paulette
+نيكولاس,Nicholas
+بولين,Pauline
+نيكول ,Nichole
+بيرل,Pearl
+نيكول,Nicole
+بيدرو,Pedro
+نيكي,Nikki
+بيغي,Peggy
+نينا,Nina
+بيني,Penny
+بيري,Perry
+نورما,Norma
+بيتر,Peter
+نورمان,Norman
+بيترا,Petra
+فيليب,Philip
+فيليب,Phillip
+فيليس,Phyllis
+بولي,Polly
+بريسيلا,Priscilla
+رابعة,Rabia
+صبيرة,Sabera
+تابثة,Tabitha
+راكيل,Rachael
+صابرينا,Sabrina
+طمارا,Tamara
+ريتشل,Rachel
+صدقة,Sadaqat
+تامي,Tami
+راشيل,Rachelle
+سادي,Sadie
+تاميكا,Tamika
+رفاييل,Rafael
+صادق,Sadiq
+تامي,Tammie
+رفيق,Rafiq
+سليم,Salim
+تامي,Tammy
+رحمان,Rahman
+سالي,Sallie
+طانيا,Tanya
+رالف,Ralph
+سالي,Sally
+طارا,Tara
+رامون,Ramon
+سلمى,Salma
+طاشا,Tasha
+رامونا,Ramona
+سالفادور,Salvador
+تيد,Ted
+رندال,Randall
+سام,Sam
+تيريسا,Teresa
+راندي,Randy
+سامنثا,Samantha
+تيري,Teri
+راكيل,Raquel
+سمسور,Samsur
+تيري,Terri
+رشيد,Rashid
+صامويل,Samuel
+تيري,Terry
+راول,Raul
+ساندرا,Sandra
+تيري,Terry
+ري,Ray
+ساندي,Sandy
+ثيلما,Thelma
+ريموند,Raymond
+سارة,Sara
+ثيودور,Theodore
+رضوانة,Razwana
+سارة,Sarah
+ثيريسا,Theresa
+ريبا,Reba
+سكوط,Scott
+ثيريس ,Therese
+ريبيكا,Rebecca
+شان,Sean
+ثوماس,Thomas
+ريجينا,Regina
+سلمى,Selma
+تيفاني,Tiffany
+ريجينالد,Reginald
+سيجيو,Sergio
+تيم,Tim
+رينا,Rena
+سيث,Seth
+تيموثي,Timothy
+ريني,Rene
+شايف,Shaif
+تينا,Tina
+ريني,Renee
+شانا,Shana
+تود,Todd
+روندا,Rhonda
+شانون,Shannon
+طوم,Tom
+ريكاردو,Ricardo
+شاري,Shari
+تومي,Tommy
+ريتشارد,Richard
+شارون,Sharon
+توني,Toni
+ريك  ,Rick
+شونا,Shauna
+تونيا,Tonia
+ريكي,Ricky
+شون,Shawn
+توني,Tony
+ريتا,Rita
+شينا,Sheena
+تونيا,Tonya
+روبي,Robbie
+شيلا,Sheila
+تريسي,Tracey
+روبيرت,Robert
+شيلبي,Shelby
+تريسي,Traci
+روبيرطا,Roberta
+شيليا,Shelia
+تريسي,Tracie
+روبيرطو,Roberto
+شيلي,Shelley
+تريسي,Tracy
+روبين,Robin
+شيلي,Shelly
+تريفيس,Travis
+روبين,Robyn
+شيري,Sheri
+تريسيا,Tricia
+روشيل,Rochelle
+شيري,Sherri
+ترينا,Trina
+رودني,Rodney
+شيري,Sherrie
+تريشا,Trisha
+روجير,Roger
+شيري,Sherry
+تروي,Troy
+رولاند,Roland
+شيريل,Sheryl
+ترودي,Trudy
+رون ,Ron
+شيرلي,Shirley
+تايلور,Tyler
+رونالد,Ronald
+سيدني,Sidney
+تايرون,Tyrone
+روندا,Ronda
+سيلفيا,Silvia
+روني,Ronnie
+سوندرا,Sondra
+روسا,Rosa
+صونيا,Sonia
+روسالي,Rosalie
+صونيا,Sonja
+روساريو,Rosario
+صونيا,Sonya
+روز,Rose
+صوفيا,Sophia
+روزماري,Rosemarie
+صوفي,Sophie
+روزميري,Rosemary
+ستيسي,Stacey
+روزيطا,Rosetta
+ستيسي,Staci
+روزي,Rosie
+ستيسي,Stacie
+روس,Ross
+ستيسي,Stacy
+روكسان,Roxanne
+ستانلي,Stanley
+روي,Roy
+ستيفاني,Stefanie
+روبن,Ruben
+ستيلا,Stella
+روبي,Ruby
+ستيفاني,Stephanie
+راسل,Russell
+ستيفن,Stephen
+روث,Ruth
+ستيف,Steve
+ريان,Ryan
+ستيف,Steven
+سو ,Sue
+صغرى,Sughra
+سليمان,Sulaiman
+سلطان,Sultan
+ثريا,Surriya
+سوزان,Susan
+سوزانا,Susana
+سوزان,Susanne
+سوزي,Susie
+سوزان,Suzanne
+سبيل,Sybil
+سيلفيا,Sylvia
+عمر,Umar
+عصمان,Usman
+وايد,Wade
+يعقوب,Yaqub
+ولاس,Wallace
+يولاندا,Yolanda
+فاليري,Valerie
+والتير,Walter
+يوسف,Yousaf
+فانيسا,Vanessa
+واندي,Wanda
+يوسف,Yousif
+فيلما,Velma
+وارين,Warren
+يوسف,Youssef
+فيرا,Vera
+واين,Wayne
+يوسف,Yusuf
+فيرنا,Verna
+ويندي,Wendy
+إيفيت,Yvette
+فيرنون,Vernon
+ويسلي,Wesley
+إيفون,Yvonne
+فيرونيكا,Veronica
+ويتني,Whitney
+فيكي,Vicki
+ويلا,Willa
+زاكاري,Zachary
+فيكي,Vickie
+ويلارد,Willard
+زاهد,Zahid
+فيكي,Vicky
+زينب,Zayneb
+فيكتور,Victor
+ويليا,Willie
+زبيدة,Zubaida
+فيكتوريا,Victoria
+ويلما,Wilma
+فينسنت,Vincent
+وينيفريد,Winifred
+فيولا,Viola
+ويني,Winnie
+فايوليت,Violet
+فيرجيل,Virgil
+فيرجينيا,Virginia
+فيفيان,Vivian
+ابانوب,Abanob
+ابرار,Abrari
+ادم,Adam
+اديب,Adeeb
+اديبة,Adeeba
+ادهم,Adham
+افاق,Afaq
+افنان,Afnan
+افراح,Afrah
+احلام,Ahlam
+احمد,Ahmed
+اجنادين,Ajnadeen
+اجود,Ajwad
+اكرم,Akram
+اكثم,Aktham
+الاء,Alaa
+البَراء,Albaraa
+البشير,Albashir
+البِرت,Albert
+الحان,Alhan
+الحَسن,Alhassan
+الحُسَين,Alhussain
+اليس,Alice
+اليف,Alif
+الما,Alma
+المَنصور,Almansour
+المظ,Almaz
+المُعتز بالله,Almoataz
+الشيّماء,Alshaymaa
+الوَليد,Alwaleed
+امل,Amal
+امال,Amal
+امانة,Amana
+اماني,Amani
+امنة,Amena
+امين,Amin
+امينة,Amina
+امير,Amir
+اميرة,Amira
+امجد,Amjad
+Aseer,اسير
+إنعام,Anaam
+اَنَس,Anas
+اندرية,Andrea
+اندرو,Andro
+اندراوس,Andrwas
+انفال,Anfal
+انجيلا,Angela
+انغام,Angham
+انهار,Anhar
+انيس,Anis
+انيسة,Anisa
+انطوني,Antoni
+انطوان,Antwan
+انوار,Anwar
+انور,Anwr
+اريج,Areej
+ارغد,Arghad
+ارسلان,Arslan
+اروى,Arwa
+اريام,Aryam
+اصالة,Asala
+اسِيف,Aseef
+اسيل,Aseel
+اسر,Aser
+اشجان,Ashgan
+اشهب,Ashhab
+اشرف,Ashraf
+اشرقت,Ashraqt
+اسية,Asia
+ايسِل,Asil
+اسينات,Asinate
+اسماء,Asmaa
+اسمهان,Asmahan
+اسمر,Asmar
+اسرى,Asra
+اسرار,Asrar
+اوّاب,Awab
+اوس,Aws
+اية,Aya
+ايات,Ayat
+ايمن,Ayman
+ايوب,Ayoub
+ايتن,Ayten
+ازهار,Azhar
+ازميرالدا,Azmiralda
+باديس,Badis
+بَدر,Badr
+بهاء,Bahaa
+باهر,Baher
+بهي,Bahi
+بهية,Bahia
+بهيّ,Bahie
+بهيجة,Bahija
+بهجة,Bahja
+براء,Baraa
+بارين,Barin
+باسل,Basel
+باسِمة,Basema
+بشام,Basham
+باسيل,Basil
+باسِم,Bassem
+بَتول,Batol
+بَتّال,Battal
+بدير,Bedir
+بجاد,Begad
+بروين,Berwin
+بيشوي,Beshoy
+بيبرس,Beybars
+بهار,Bhar
+بيلار,Bilar
+بوح,Bouh
+بيداء,Bydaa
+إدريس,Edris
+إدوارد,Edward
+إجلال,Eglal
+إحسان,Ehsan
+إخلاص,Ekhlas
+إيلين,Elaine
+إلهام,Elham
+إلهامي,Elhami
+إليسا,Elisa
+إليزابيث,Elisabeth
+إلياس,Elyas
+إمام,Emam
+إيميلي,Emily
+إمتنان,Emtenan
+إنجي,Engie
+إنصاف,Ensaf
+انتصار,Entesar
+إقبال,Eqbal
+إيريني,Ereny
+إسحاق,Eshaq
+إسراء,Esraa
+استفانوس,Estefanos
+إيف,Eve
+ايفلين,Eveline
+إيفون,Evon
+إفرونيا,Evronia
+هُديّن,Hudein
+إبراهيم,Ibrahim
+ابرام,Ibram
+ابتسام,Ibtesam
+إبتهال,Ibtihal
+إيهاب,Ihab
+إكرام,Ikram
+إيلاف,Ilaf
+إيمان,Iman
+إيناس,Inas
+إيريس,Iris
+ارتواء,Irtewaa
+إيزابيل,Isabelle
+اسكندر,Iskandar
+إسلام,Islam
+إسماعيل,Ismaeel
+اعتماد,Itemad
+إيثار,Ithar
+إياد,Iyad
+إياس,Iyas
+نيللي,Nilly
+نيكولا,Nicola
+نورسين,Noorseen
+اوكتافيا,Octavia
+الفة,Olfa
+اولجا  - اولغا,Olga
+اوليفيا,Olivia
+ام كُلثوم,Om Kolthoum
+اُميمة,Omaima
+امامة,Omama
+امنية,Omnia
+اورهان,Orhan
+اُسامة,Osama
+برديس,Pardis
+باريس,Paris
+باتريك,Patrik
+بيتر,Peter
+بولا,Pola
+بولس,Poles
+وضّاء,Wadaa
+وسيم,Wassim
+يوكابد,Yokabed
+يونان,Yonan
+اغنيس,Agnes
+اليس,Alice
+اليسيا,Alicia
+اليسون,Allison
+الما,Alma
+اماندا,Amanda
+امبر,Amber
+ايمي,Amy
+انا,Ana
+اندريا,Andrea
+انجلا,Angela
+انيتا,Anita
+ان,Ann
+انا,Anna
+ان,Anne
+انيت,Annette
+اني,Annie
+ابريل,April
+ارلين,Arlene
+اشلي,Ashley
+اودري,Audrey
+باربرا,Barbara
+بياتريس,Beatrice
+باكي,Becky
+برنيس,Bernice
+بيرثا,Bertha
+باسي,Bessie
+بيث,Beth
+باتي,Betty
+بافيرلي,Beverly
+بيلي,Billie
+بابي,Bobbie
+بوني,Bonnie
+براندي,Brandy
+بريندا,Brenda
+بريتاني,Brittany
+كارلا,Carla
+كارمن,Carmen
+كارول,Carol
+كارول,Carole
+كارولين,Caroline
+كارولين,Carolyn
+كاري,Carrie
+كاساندرا,Cassandra
+كاثرين,Catherine
+كاثي,Cathy
+شارلين,Charlene
+شارلوت,Charlotte
+شارل,Cheryl
+كريستينا,Christina
+كريستين,Christine
+كرستي,Christy
+سيندي,Cindy
+كلاير,Claire
+كلارا,Clara
+كلاوديا,Claudia
+كولين,Colleen
+كوني,Connie
+كونستانس,Constance
+كورتني,Courtney
+كريستل,Crystal
+سينثيا,Cynthia
+دايسي,Daisy
+دانا,Dana
+دانييل,Danielle
+دارلين,Darlene
+دون,Dawn
+ديانا,Deanna
+ديبي,Debbie
+ديبرا,Deborah
+ديبرا,Debra
+دولورس,Delores
+دينيس,Denise
+ديانا,Diana
+ديان,Diane
+ديان,Dianne
+دولورس,Dolores
+دونا,Donna
+دورا,Dora
+دوريس,Doris
+دورثي,Dorothy
+إيديث,Edith
+إدنا,Edna
+ايلين,Eileen
+إيلاين,Elaine
+إلينور,Eleanor
+اليزابيث,Elizabeth
+الا,Ella
+الين,Ellen
+إليس,Elsie
+إميلي,Emily
+إما,Emma
+اريكا,Erica
+اريكا,Erika
+ارين,Erin
+استر,Esther
+اثل,Ethel
+إيفا,Eva
+افيلين,Evelyn
+فيليسيا,Felicia
+فلورنس,Florence
+فرانسس,Frances
+غايل,Gail
+جورجيا,Georgia
+جيرالدين,Geraldine
+غيرترود,Gertrude
+جينا,Gina
+غلاديس,Gladys
+غليندا,Glenda
+غلوريا,Gloria
+غرايس,Grace
+غويندولين,Gwendolyn
+هايزل,Hazel
+هاذر,Heather
+هايدي,Heidi
+هيلين,Helen
+هيلدا,Hilda
+هولي,Holly
+ايدا,Ida
+ايرين,Irene
+ارما,Irma
+جاكي,Jackie
+جاكيلن,Jacqueline
+جايمي,Jamie
+جاين,Jane
+جانيت,Janet
+جانيس,Janice
+جين,Jean
+جانيت,Jeanette
+جين,Jeanne
+جيني,Jennie
+جينيفر,Jennifer
+جيني,Jenny
+جيسيكا,Jessica
+جيسي,Jessie
+جيل,Jill
+جو,Jo
+جون,Joan
+جوان,Joann
+جوان,Joanne
+جوسيفين,Josephine
+جوي,Joy
+جويس,Joyce
+جانيتا,Juanita
+جودث,Judith
+جودي,Judy
+جوليا,Julia
+جوليا,Julie
+جون,June
+كارين,Karen
+كاثرين,Katherine
+كاثلين,Kathleen
+كاثرين,Kathryn
+كاثي,Kathy
+كايتي,Katie
+كاترينا,Katrina
+كاي,Kay
+كيلي,Kelly
+كيم,Kim
+كيمبرلي,Kimberly
+كريستن,Kristen
+كريستن,Kristin
+كريستينا,Kristina
+لارا,Laura
+لارن,Lauren
+لوري,Laurie
+ليا,Leah
+لينا,Lena
+ليونا,Leona
+ليسلي,Leslie
+ليليان,Lillian
+ليلي,Lillie
+ليندا,Linda
+ليسا,Lisa
+لويس,Lois
+لوريتا,Loretta
+لوري,Lori
+لوراين,Lorraine
+لويز,Louise
+لوسيل,Lucille
+لوسي,Lucy
+ليندا,Lydia
+لين,Lynn
+مايبل,Mabel
+ماي,Mae
+مارسيا,Marcia
+مارغاريت,Margaret
+مارغي,Margie
+ماريا,Maria
+ماريان,Marian
+ماري,Marie
+ماريلين,Marilyn
+ماريون,Marion
+مارجوري,Marjorie
+مارلين,Marlene
+مارشا,Marsha
+مارثا,Martha
+ماري,Mary
+ماتي,Mattie
+مورين,Maureen
+ماكسين,Maxine
+ميغان,Megan
+ميلاني,Melanie
+ميليندا,Melinda
+ميليسا,Melissa
+ميشيل,Michele
+ميشيل,Michelle
+ميلدريد,Mildred
+ميني,Minnie
+ميريام,Miriam
+ميستي,Misty
+مونيكا,Monica
+ميرتيل,Myrtle
+نانسي,Nancy
+نايومي,Naomi
+ناتالي,Natalie
+نيلي,Nellie
+نيكول,Nicole
+نينا,Nina
+نورا,Nora
+نورما,Norma
+اولغا,Olga
+باميلا,Pamela
+باتريسيا,Patricia
+باتسي,Patsy
+بولا,Paula
+بولين,Pauline
+بيرل,Pearl
+بيغي,Peggy
+بيني,Penny
+فيليس,Phyllis
+بريسيلا,Priscilla
+رايتشيل,Rachel
+رامونا,Ramona
+ريبيكا,Rebecca
+ريجينا,Regina
+ريناي,Renee
+روندا,Rhonda
+ريتا,Rita
+روبيرتا,Roberta
+روبين,Robin
+روزا,Rosa
+روز,Rose
+روزماري,Rosemary
+روبي,Ruby
+روث,Ruth
+سالي,Sally
+سامانثا,Samantha
+ساندرا,Sandra
+سارا,Sara
+سارا,Sarah
+شانون,Shannon
+شارون,Sharon
+شيلا,Sheila
+شيلي,Shelly
+شيري,Sherri
+شيري,Sherry
+شيرلي,Shirley
+سونيا,Sonia
+ستايسي,Stacey
+ستايسي,Stacy
+ستيلا,Stella
+ستيفاني,Stephanie
+سو,Sue
+سوزن,Susan
+سوزان,Suzanne
+سيلفيا,Sylvia
+تامارا,Tamara
+تامي,Tammy
+تانيا,Tanya
+تارا,Tara
+تيريسا,Teresa
+تيري,Terri
+تيري,Terry
+ثيلما,Thelma
+تيريسا,Theresa
+تيفاني,Tiffany
+تينا,Tina
+توني,Toni
+تونيا,Tonya
+ترايسي,Tracey
+ترايسي,Tracy
+فاليري,Valerie
+فانيسا,Vanessa
+فيلما,Velma
+فيرا,Vera
+فيرونيكا,Veronica
+فيكي,Vicki
+فيكي,Vickie
+فيكتوريا,Victoria
+فيولا,Viola
+فيوليت,Violet
+فرجينيا,Virginia
+فيفيان,Vivian
+واندا,Wanda
+ويندي,Wendy
+ويلي,Willie
+ويلما,Wilma
+يولاندا,Yolanda
+إيفون,Yvonne
+ارون,Aaron
+ادم,Adam
+ايدريان,Adrian
+الن,Alan
+البرت,Albert
+البيرتو,Alberto
+الكس,Alex
+الكسندر,Alexander
+الفريد,Alfred
+الفريدو,Alfredo
+الن,Allan
+الن,Allen
+الفن,Alvin
+اندري,Andre
+اندرو,Andrew
+اندي,Andy
+انجل,Angel
+انثوني,Anthony
+انتونيو,Antonio
+ارماندو,Armando
+ارنولد,Arnold
+ارثور,Arthur
+باري,Barry
+بِن,Ben
+بنجامين,Benjamin
+برنارد,Bernard
+بيل,Bill
+بيلي,Billy
+بوب,Bob
+بوبي,Bobby
+براد,Brad
+برادلي,Bradley
+براندون,Brandon
+برينت,Brent
+بريت,Brett
+براين,Brian
+بروس,Bruce
+براين,Bryan
+بايرون,Byron
+كالفين,Calvin
+كارل,Carl
+كارلوس,Carlos
+كايسي,Casey
+سيسل,Cecil
+تشاد,Chad
+تشارلز,Charles
+تشارلي,Charlie
+تشيستر,Chester
+كريس,Chris
+كريستيان,Christian
+كريستوفر,Christopher
+كلارِنس,Clarence
+كلود,Claude
+كلايتون,Clayton
+كليفرد,Clifford
+كليفتون,Clifton
+كلينتون,Clinton
+كلايد,Clyde
+كودي,Cody
+كوري,Corey
+كوري,Cory
+كرايغ,Craig
+كورتِس,Curtis
+دايل,Dale
+دان,Dan
+دانيل,Daniel
+داني,Danny
+داريل,Darrell
+دارِن,Darren
+داريل,Darryl
+داريل,Daryl
+دايف,Dave
+دافيد,David
+دين,Dean
+,Dennis
+دارك,Derek
+دارك,Derrick
+دون,Don
+دونالد,Donald
+دوغلِس,Douglas
+دواين,Duane
+دوستِن,Dustin
+دواين,Dwayne
+دوايت,Dwight
+إرل,Earl
+إدي,Eddie
+إدغار,Edgar
+إدواردو,Eduardo
+إدوارد,Edward
+إدوين,Edwin
+إلمر,Elmer
+إنريكَي,Enrique
+إريك,Eric
+إريك,Erik
+إرنست,Ernest
+يوجين,Eugene
+إفيريت,Everett
+فيلِكس,Felix
+فرناندو,Fernando
+فلويد,Floyd
+فرانسيس,Francis
+فرانسيسكو,Francisco
+فرانك,Frank
+فرانكلن,Franklin
+فريد,Fred
+فريدي,Freddie
+فريدرِك,Frederick
+غابرييل,Gabriel
+غاري,Gary
+جين,Gene
+جيورج,George
+جارلد,Gerald
+غيلبرت,Gilbert
+غلين,Glen
+غلين,Glenn
+غوردون,Gordon
+غريغ,Greg
+غريغوري,Gregory
+غاي,Guy
+هارولد,Harold
+هاري,Harry
+هارفي,Harvey
+هيكتور,Hector
+هينري,Henry
+هربرت,Herbert
+هرمان,Herman
+هاورد,Howard
+هيو,Hugh
+إين,Ian
+ايساك,Isaac
+ايفن,Ivan
+جاك,Jack
+جايكب,Jacob
+جايمي,Jaime
+جايمس,James
+جايمي,Jamie
+جاريد,Jared
+جايسون,Jason
+هافيير,Javier
+جاي,Jay
+جيف,Jeff
+جيفري,Jeffery
+جيفري,Jeffrey
+جاريمي,Jeremy
+جيروم,Jerome
+جاري,Jerry
+جيسي,Jesse
+جيسي,Jessie
+جيزس,Jesus
+جيم,Jim
+جيمي,Jimmie
+جيمي,Jimmy
+جو,Joe
+جول,Joel
+جون,John
+جوني,Johnnie
+جوني,Johnny
+جون,Jon
+جوناثن,Jonathan
+جوردن,Jordan
+جورج,Jorge
+هوساي,Jose
+جوسيف,Joseph
+جاشوا,Joshua
+وان,Juan
+جوليان,Julian
+هوليو,Julio
+جستن,Justin
+كارل,Karl
+كيث,Keith
+كالي,Kelly
+كين,Ken
+كينيث,Kenneth
+كينت,Kent
+كيفن,Kevin
+كيرك,Kirk
+كورت,Kurt
+كايل,Kyle
+لانس,Lance
+لاري,Larry
+لاورنس,Lawrence
+لي,Lee
+ليو,Leo
+ليون,Leon
+ليونارد,Leonard
+ليروي,Leroy
+ليسلي,Leslie
+ليستر,Lester
+لويس,Lewis
+لويد,Lloyd
+لوني,Lonnie
+لويس,Louis
+لويس,Luis
+مانيويل,Manuel
+مارك,Marc
+ماركوس,Marcus
+ماريو,Mario
+ماريون,Marion
+مارك,Mark
+مارشل,Marshall
+مارتن,Martin
+مارفن,Marvin
+ماثيو,Matthew
+موريس,Maurice
+ماكس,Max
+ميلفين,Melvin
+مايكل,Michael
+مايكل,Micheal
+ميغيل,Miguel
+مايك,Mike
+ميلتون,Milton
+ميتشل,Mitchell
+موريس,Morris
+نايثان,Nathan
+ناثانيال,Nathaniel
+نيل,Neil
+نيلسون,Nelson
+نيكولاس,Nicholas
+نورمان,Norman
+اسكر,Oscar
+باتريك,Patrick
+بول,Paul
+بايدرو,Pedro
+بيري,Perry
+بيتر,Peter
+فيليب,Philip
+فيليب,Phillip
+رافييل,Rafael
+رالف,Ralph
+رامون,Ramon
+راندل,Randall
+راندي,Randy
+راوول,Raul
+راي,Ray
+رايموند,Raymond
+ريجينولد,Reginald
+ريناي,Rene
+ريكاردو,Ricardo
+ريتشارد,Richard
+ريك,Rick
+ريكي,Ricky
+روبرت,Robert
+روبيرتو,Roberto
+رودني,Rodney
+روجر,Roger
+رولاند,Roland
+رون,Ron
+رونالد,Ronald
+روني,Ronnie
+روس,Ross
+روي,Roy
+روبن,Ruben
+روسيل,Russell
+راين,Ryan
+سالفادور,Salvador
+سام,Sam
+ساميول,Samuel
+سكوت,Scott
+شون,Sean
+سيرجيو,Sergio
+سيث,Seth
+شاين,Shane
+شون,Shawn
+سيدني,Sidney
+ستانلي,Stanley
+ستيفن,Stephen
+ستيف,Steve
+ستيفن,Steven
+تيد,Ted
+تارنس,Terrance
+تارنس,Terrence
+تاري,Terry
+ثيودور,Theodore
+توماس,Thomas
+تيم,Tim
+تيموثي,Timothy
+تود,Todd
+توم,Tom
+تومي,Tommy
+توني,Tony
+ترايسي,Tracy
+ترافس,Travis
+تروي,Troy
+تيلر,Tyler
+تيرون,Tyrone
+فيرنون,Vernon
+فيكتور,Victor
+فينسينت,Vincent
+فيرجل,Virgil
+وايد,Wade
+والس,Wallace
+والتر,Walter
+وارن,Warren
+واين,Wayne
+ويسلي,Wesley
+ويلرد,Willard
+ويليام,William
+ويلي,Willie
+زاكري,Zachary
+آدم             ,Adam 
+آصف             ,Assef
+آيت عبد النور   ,Ait abd elnour
+أبان            ,Aban 
+أبسل            ,Absal           
+أبلج            ,Ablag
+أبو بكر         ,Abu Bakr
+أبو حمزة       , Abu Hamza
+حمزة        ,    Hamza
+أجاويد       ,   Agawid
+أجيد       ,     Agid
+أحدب        ,    Ahdab
+أحنف        ,    Ahnaf
+أحوس        ,    Ahwas
+خضر         ,    khedr
+أدهم        ,    Adham
+أديب        ,    odeeb
+أرقم        ,    Arkam
+أزور        ,    Ozour
+أسامة        ,   Ossama
+أسعد        ,    Asaad
+أسلم        ,    Aslam
+أشرف        ,    Ashraf
+أصيل       ,     Assel
+أكرم       ,     Akram
+أكسم       ,     Aksam
+أكليل       ,    Akleel
+أكمل       ,     Akmal
+أكنان      ,     Aknan
+ألوف       ,     Alouf
+أمار       ,     Ammar
+أمام      ,      Emam
+أمان      ,      Aman 
+أمان الله       ,Aman Allah
+أمجاد       ,    Amgaad
+أمجد       ,     Amgad
+أمد       ,      Amad
+أمدد       ,     Amdad
+أمرزي      ,     Amrazy
+أمنان     ,      Amnan
+أموري      ,     Amoury
+أموني      ,     Amouny
+أمية      ,      Ameya
+أمير     ,       Amir
+أميراي     ,     Amirai
+أميري      ,     Ameery
+أميل      ,      Ameel
+أمين     ,       Amin
+أنار     ,       Anar
+أنارات     ,     Anarat
+أنس      ,       Anas
+أنستاس      ,    Anastas
+أنصاري     ,     Ansary
+أنعم      ,      Anaam
+أنمار     ,      Anmar
+أنور      ,      Anwar
+أنوس      ,      Anwas
+أنوش       ,     Anoush
+أنوف      ,      Anwaf
+نواف      ,      Nawaf
+ابو نواف      ,  Abu Nawaf
+أنيق      ,      Aneek
+أهيف      ,      Ahyaf
+أواد     ,       Awad
+واثل     ,       Wael
+أيوب      ,      Ayoub
+أويس      ,      Owees
+أياس     ,       Ayas
+أيامن      ,     Ayamen
+أيمن      ,      Ayman
+أيتن      ,      Ayten
+أيد      ,       Ayed
+إياد     ,       Ayed
+أيسر      ,      Aysar
+أيهم      ,      Ayham
+إجلال      ,      Eglal
+إحسان     ,      Ehsan
+إخلاص       ,     Ekhlas
+إدريس      ,     Edrees
+إسحاق     ,      Eshak
+إسعاد     ,      Esaad
+إسكندر       ,   Eskandar
+إصلاح      ,      Eslah
+إلياس     ,      Elyas
+هلال       ,      Helal
+حبيب       ,     Habeeb
+حجاح      ,      Hagag
+العابدين     ,   Elabdeen
+عابدين     ,     Abdeen  
+عابد     ,       Abed
+المانسي     ,    ElMansi
+مانسي     ,      Mansi
+بادي     ,       Badi
+بدوي       ,     Badawi
+الرفاعي     ,    Elrifai
+الرفاعى     ,    Elrifai
+رفاعي     ,      Rifai
+رفعت       ,     Refaat
+بارع      ,      Baree
+برعى     ,       Bori
+برعي     ,       Bori
+باز     ,        Baz
+عبد الباسط        ,Abd Elbaset
+باهر      ,      Baher
+بحيري       ,    Beheiry
+بحيرى       ,    Beheiry
+البحيري         ,  ElBeheiry
+البحيرى         ,  ELBeheiry
+بحري       ,     Bahari
+بدار      ,      Badar
+بدير       ,     Bedeer
+عواد     ,       Awad
+برهان       ,    Bourhan
+بسطام       ,    Boustam
+بسيل       ,     Baseel
+بسيم       ,     Baseem
+بشير       ,     Beshir
+بشارة       ,    Beshara
+بشر       ,      Beshr
+بشري        ,    Boushra       
+بطاح       ,     Battah
+بطرس       ,     Botrus
+بكار      ,      Bakar
+بكر      ,       Bakr
+بكري      ,      Bakry
+بكور       ,     Bokour
+بلال       ,      Belal
+بليغ       ,     Baligh
+بندر       ,     Bandar
+بهاء      ,      Bahaa
+بهجة      ,      Bahga
+بهجت       ,     Bahgat
+بهلول       ,    Bahloul
+بهيج       ,     Baheeg
+بهيس       ,     Bahees
+بيان      ,      Bayan
+تركي       ,     Turkey
+تقي      ,       Toka                                
+تليد      ,      Talid
+تمام      ,      Tamam
+تميم      ,      Tamim
+تهامي      ,     Tohami
+تواب            ,Abd Eltawab
+توفيق      ,     Tawfik
+تيسير      ,     Taysir
+تيم     ,        Tim
+ثائب       ,     Thaaeb
+ثائر       ,     Thaaer
+ثراء       ,     Tharaa
+ثروان       ,    Tharwan
+ثروت        ,    Tharwat
+ثنيان       ,    Thanyan
+جابر      ,      Gaber
+جاسم      ,      Gasem
+جبر      ,       Gabr
+جبران      ,     Gabran
+حمدان      ,     Hamdan
+وهدان      ,     Wahdan
+جدن      ,       Gadn
+غدير        ,    Ghadeer
+جعفر        ,    Ghaafar
+جلال       ,      Galal
+جلوان      ,     Galwan
+ريوان     ,      Rewan
+جليل      ,      Galil
+جمعان      ,     Gamaan
+جمعة      ,      Gomaa
+جميل       ,     Gameel
+جهاد      ,      Gehad
+جهدان      ,     Gahdan
+جواد      ,      Gawad
+جودة      ,      Gouda
+جودت       ,     Gawdat
+جياش       ,     Gayash
+حاتم      ,      Hatem
+حادر      ,      Hader
+حازم      ,      Hazem
+حافظ      ,      Hafez
+حجاب      ,      Hegab
+حجاج      ,      Hagag
+حجر      ,       Hagr
+حر       ,       Hour
+حزم      ,       Hazm
+حسان        ,    Hassaan
+حسن        ,     Hassan
+حسنى      ,      Hosni
+حسنين        ,   Hasaneen
+حسون        ,    Hassoon
+حسين        ,    Hussein
+حسيني        ,   Husseiny
+حسينى        ,   Husseiny  
+الحسيني         ,El Husseiny
+الحسينى         ,El Husseiny 
+حصيف        ,    Houseif
+حفص      ,       Hafs
+حفصه      ,      Hafsa
+حفصة      ,      Hafsa
+حفظي      ,      Hafzi 
+حربي      ,      Harbi
+حربى      ,      Harbi
+حكيم      ,      Hakim
+حماد       ,     Hammad
+حمود       ,     Hamood
+حمودة       ,    Hamooda
+حموده       ,    Hamooda
+حمدان      ,     Hamdan
+حمدون       ,    Hamdoon
+حمزة      ,      Hamza
+حنبل       ,     Hanbal
+حنظلة       ,    Hanzala
+حنيشل        ,   Haneshal
+حواس      ,      Hawas
+حيدر      ,      Hedar
+خزاعي      ,     Khozai
+خطاب       ,     Khatab
+خلدون        ,   Khaldoon
+خلف        ,     Khalaf
+خليفة       ,    Khalifa
+خليل       ,     Khalil
+خميس       ,     Khamis
+خويلد         ,  Khowayled
+آبو خير         ,Abu Elkheir
+دانا     ,       Dana
+داني     ,       Dani
+داود       ,     Dawoud
+دراج      ,      Darag
+درغام       ,    Dergham
+دريد      ,      Darid
+دعاس     ,       Daas
+دعبس       ,     Deabes
+دهيم      ,      Damim
+ذاكر      ,      Zaker
+سفيان      ,     Sofyan
+ذكوان      ,     Zakwan
+ذكي      ,       Zaki
+ذياد     ,       Ziad
+رأفت       ,     Rafaat
+رئيف     ,       Raif
+رؤف       ,      Raouf
+رائف     ,       Raef
+رائد      ,      Raeed
+رائض      ,      Raeed
+رابح      ,      Rabeh
+رابي     ,       Rabi
+راتب     ,       Rateb
+رجحي     ,       Raghi
+راجي    ,        Ragi
+راسخ      ,      Rasekh
+راسم     ,       Rasem
+راشد      ,      Rashed
+راضي    ,        Radi
+راغب      ,      Ragheb
+راغد      ,      Raghed
+رافد     ,       Rafed
+رافع     ,       Rafee
+رافق     ,       Rafek
+رافل     ,       Rafel
+رامز     ,       Ramez
+رامي    ,        Rami
+رباح     ,       Rabah
+ربحي     ,       Rabhi
+ربيع     ,       Rabee
+رجاء     ,       Ragaa
+رجب      ,       Ragab
+رجوان     ,      Ragwan
+رجيح     ,       Ragig
+رحال     ,       Rahal
+رزق     ,        Rezk
+رزين     ,       Razin
+رسمي     ,       Rasmi
+رسيم     ,       Rasim
+رشاد      ,      Rashad
+رشدي      ,      Rushdy
+رشوان      ,     Rashwan
+رشيد      ,      Rashid
+رشيق      ,      Rashik
+سفوان     ,      Safwan
+صفون      ,      Safwat
+رضوان     ,      Radwan
+رضي     ,        Reda
+رطيب     ,       Ratib
+رعد     ,        Raad
+رغال      ,      Raghal
+رغيب      ,      Raghib
+رغيد      ,      Raghid
+رفاعة    ,       Refaa
+رفعة    ,        Refa
+رفيع     ,       Rafie
+رفيق     ,       Rafik
+رماح     ,       Ramah
+رمزي     ,       Ramzi
+رمزية     ,      Ramzia
+رمضان      ,     Ramadan
+رويشد      ,     Rowishd
+رياض     ,       Reyad
+ريان     ,       Rayan
+ريبال    ,       Rabil
+زاخر      ,      Zakher
+زاكي    ,        Zaki
+زاهد     ,       Zahed
+زاهر     ,       Zaher
+زاهي    ,        Zahi
+زايد     ,       Zayed
+زبرقان     ,     Zabrkan
+زبير       ,     Zoubeir
+زغلول       ,    Zaghloul
+زفر     ,        Zafr
+زكريا       ,    Zakareya
+زهار     ,       Zahar
+زهوان     ,      Zahwan
+زهيد     ,       Zamid
+زهير      ,      Zoheir
+زياد    ,        Zyad
+زياد , Zayad
+زيان     ,       Zayan
+زيد      ,       Zayed
+زيدان   ,        Zidan
+زيدون     ,      Zaydoon
+سائد   ,         Saed
+سائر   ,         Saer
+ساجد    ,        Saged
+ساري   ,         Sari
+ساطع    ,        Satea
+ساعدة   ,        Saada
+سالم    ,        Salem
+سامح    ,        Sameh
+سامر    ,        Samer
+سامي   ,         Sami
+ساهد    ,        Sahed
+ساهر    ,        Saher
+سبع    ,         Sabe
+سراج    ,        Serag
+سرور    ,        Srour
+سرى    ,         Sari
+سري    ,         Sari
+سعد    ,         Saad
+سعدون    ,       Saadon
+سعدي    ,        Saadi
+سعود   ,         Soud
+سعيد    ,        Saeed
+سلام      ,       Salaam
+سلامة     ,       Salama
+سلطان     ,      Soultan
+سلمان    ,       Salman
+سلمة     ,       Salama
+سليم    ,        Selim
+سمعان    ,       Samaan
+سمعون    ,       Samoun
+سميح    ,        Samih
+سمير    ,        Samir   
+سنان    ,        Sanan
+سهيل     ,       Sohayl
+سيف    ,         Seif
+شادي    ,        Shadi
+شارف    ,        Shari
+شريف     ,       Sherif
+شاري    ,        Shari
+شافع     ,       Shafea
+شافعي    ,       Shafei
+شافعى    ,       Shafei
+شاكر    ,        Shaker
+شاهد    ,        Shahid
+شاهر    ,        Shaher
+شبل    ,         Shebl
+شداد    ,        Shadad
+شديد    ,        Shedid
+شريف    ,        Sherif
+شعبان    ,       Shaaban
+شعيب     ,       Shoayeb
+شفيق    ,        Shafik
+شكري    ,        Shokry
+شمس الدين      , Shams El Deen
+شمس    ,         Shams
+شهاب    ,        Shahab
+شهم    ,         Shahm
+شهوان    ,       Shahwan
+شهاوي    ,       Shahway
+شهاوى    ,       Shahway
+الشهاوي     ,    El Shahway
+شوقي   ,         Shawky
+شوكت    ,        Shawkat
+شيبان  ,         Shiban
+شيبة  ,          Shiba
+شيحان   ,        Shabhan
+شيخون    ,       Shaykhon
+صابر  ,          Saber
+صافي ,           Safi
+صباح  ,          Sabah
+صبيح  ,          Sabih
+صدام  ,          Sadam
+صفاء  ,          Safaa 
+صفوان  ,         Safwan
+صفوت   ,         Safwat
+صلاح الدين    ,   Salah Eldein
+صهيب    ,        Sohayeb
+ضاهر  ,          Daher
+ضياء  ,          Deyaa
+ضيف  ,           Deif
+طارف  ,          Tarek
+طاهر  ,          Taher
+طلال   ,          Talal
+طلحة  ,          Talha
+اطنوس    ,       Antonios
+طيب   ,          Tayeb
+ظافر  ,          Zafer
+ظاهر  ,          Zaher
+ظفار  ,          Zafar
+ظفير  ,          Zafir
+عبيد  ,          Ebeid
+عادل ,           Adel
+عرفان ,          Erfan
+عزام ,           Azam
+عاطف ,           Atef
+عاكف ,           Akef
+عامر ,           Amer
+عبادة ,          Obada
+عباده ,          Obada
+عباس  ,          Abbas
+عبد الباقي ,     Abd Elbaai
+عبد البصير   ,   Abd Elbaseer
+عبد الجبار  ,    Abd Elgabar
+عبد الجليل  ,    Abd Elgleel
+عبد الجميل   ,   Abd Elgameel
+عبد الحفيظ   ,   Abd Elhafeez
+عبد الحق  ,      Abd Elhaa
+عبد الحكيم   ,   Abd ElHakeem
+عبد الحليم   ,   Abd Elhaleem
+عبد الحميد  ,    Abd Elhamid
+عبد الحي  ,      Abd Elhai
+عبد الخالق   ,   Abd Elkhalea
+عبد الرؤوف  ,    Abd Elraoof
+عبد ربه  ,       Abd Rabo
+عبد الرحيم   ,   Abd Elreheem
+عبد الرزاق  ,    Abd Elrazak
+عبد الرقيب   ,   Abd Elrakeeb
+عبد السلام    ,   Abd Elsalaam
+عبد الشكور    ,  Abd Elshakoor
+عبد الصمد   ,    Abd ELsamad
+عبد الظاهر  ,    Abd ELzaher
+عبد العزيز ,     Abd ELaziz
+عبد العظيم  ,    Abd Elazeem
+عبد العليم  ,    Abd Elaleem
+عبد الغفور   ,   Abd Elghafoor
+عبد الغني  ,     Abd Elghani    
+عبد الفتاح  ,    Abd Elfataah
+عبد القادر ,     Abd Elkader
+عبد القيوم  ,    Abd Elkayoum
+عبد الكريم  ,    Abd Elkareem
+عبد اللطيف ,     Abd Ellatif
+عبد الله ,       Abd Allah
+عبد المجيد  ,    Abd Elmajeed
+عبد المسيح  ,    Abd Elmaseeh
+عبد المطلب   ,   Abd Elmoteleb
+عبد الملك  ,     Abd Elmalek 
+عبد المنعم ,     Abd Elmonem
+عبد النور ,      Abd Elnour
+عبد الهادي,      Abd Elhadi
+عبد الواحد ,     Abd Elwahed
+عبد الودود  ,    Abd Elwadoud
+عبد الوهاب ,     Abd Elwahab
+عبد عال  ,       Abd Elaal 
+عبدو,            Abdo
+عبده,            Abdo
+عبيدة ,          Obayda
+عتاب ,           Etab
+عجاج ,          Agag
+عجرم ,          Agram
+عجمان ,         Agman
+عدل ,           Adl
+عدلي ,          Adly
+عدن ,           Adnan
+عدنان ,         Adnan
+عدي ,           Oday
+عديل ,          Adeel
+عراب ,          Araab
+عرفات ,         Arafaat
+عرفة ,          Arafa
+عريف ,          Areef
+عز ,            Ez
+عزب ,           Azab
+عزة ,           Azza
+عزت ,           Ezaat
+عزيز ,          Aziz
+عصام ,          Essam
+عصمت ,          Esmat
+عطا ,           Attah
+عطفان ,         Aftan
+عفان ,          Afan
+عفيف ,          Afef
+عفيفي ,          Afefi
+عفيفى ,          Afefi
+عقال ,          Akal
+عقبة ,          Okba
+عقل ,           Akl
+عقلة ,          Okla
+عقيل ,          Okeel
+عكاشة ,         Okasha
+عكرمة ,         Ekrema
+علاء ,           Alaa
+علاء الدين    ,  Alaa Eldin
+علوان  ,         Elwan
+علي         ,   Ali
+عليان ,         Alyan
+عماد ,          Emad
+عمار ,          Ammar
+عمارة ,         Emara
+عمر ,           Omar
+عمران ,         Omran
+عمرو ,          Amr
+عملس ,          Amlas
+عميد ,          Ameed
+عنبر ,          Anbar
+عنتر ,          Antar
+عنترة ,         Antara
+عوض ,           Awad
+عوف ,           Euf
+عون ,           Awn
+عوني ,          Awni
+عويس ,          Eweis
+عياش ,          Ayash
+عيد ,           Eid
+عيسى,          Eisa
+غازي ,          Ghazi
+غاضر ,          Ghader
+غالب ,          Ghaleb
+غالي ,          Ghali
+ثابت   ,       Thabet
+غامد ,          Ghamed
+غانم ,          Ghanem
+غباش ,          Ghobash
+غباشي ,          Ghobashi
+غباشى ,          Ghobashi
+غريب ,          Gharib
+غريض ,          Ghareed
+غزوان ,         Ghazwan
+غزيل ,          Ghazeel
+غسان ,          Ghareed
+غصاب ,          Ghasab
+غضران ,         Ghadran
+غضنفر ,         Ghadanfar
+غطاس        ,   Ghatas
+الغطاس        ,   Elghatas
+الغطريفي      ,   Elghatrify
+غلام ,           Gholam
+غني ,           Ghani
+غنيان ,         Ghanian
+غنيم ,          Ghoneim
+غوار ,          Ghwar
+غوث ,           Ghos
+غياث ,          Ghayath
+غيث ,           Gheith
+غيد ,           Gheid
+غيدان ,         Gheidan
+غيسان ,         Ghisan
+غيلان       ,    Ghilan
+فؤاد        ,   Fouad 
+فائز        ,   Faez
+فائق        ,   Faaek
+فاتح        ,   Fateh
+فاتك        ,   Fatek
+فاتن        ,   Faten
+فاخر        ,   Fakher
+فادي        ,   Fadi
+فارس        ,   Fares
+فارض        ,   Fared
+فارع        ,   Farei
+فاروق       ,   Farouk
+فاضل        ,   Fadel
+فالح        ,   Faleh
+فتح         ,   Fath
+فتحي        ,   Fathy
+فتوح        ,   Fatouh
+فتيح        ,   Fatih
+فحل         ,   Fahl
+فخر         ,   Fakhr
+فخري        ,   Fakhri
+فراج        ,   Farag
+فرار        ,   Farar
+فراس        ,   Feras
+فرج         ,   Farag
+فرحات       ,   Farahat
+فرحان       ,   Farhan
+فرقان       ,   Forkan
+فرناس       ,   Fernas
+فروان       ,   Farwan
+فروح        ,   Farouh
+فريج        ,   Farig
+فريد        ,   Farid
+فريز        ,   Fariz
+فريع        ,   Farie
+فصيح        ,   Faseeh
+فضل         ,   Fadl
+فضلون       ,   Fadlon
+فضيل        ,   Fadil
+فطيم        ,   Fatim
+فطين        ,   Fatin
+فكرة        ,   Fekra
+فكرت        ,   Fekrat
+فكري        ,   Fekry
+فلوح        ,   Falouh
+فليح        ,   Falih
+فندي        ,   Fandi
+افندي        ,   Afandi
+فهار ,          Fahar
+فهد     ,       Fahd
+فهدي        ,   Fahdi
+فهر         ,   Fahr
+فهمي        ,   Fahmi
+فهيد        ,   Fahid
+فهيم        ,   Fahim
+فواز        ,   Fawaz
+فوزي        ,   Fawzi
+فياح        ,   Fayah
+فياد        ,   Feyad
+فياض        ,   Feyad
+فيصل        ,   Fesal
+فيض         ,   Feid
+فيضي        ,   Feidy
+قائد        ,   Kaed
+قابس        ,   Kabes
+قابوس       ,   Kabous
+قادر        ,   Kader
+قاسط        ,   Kaset
+قاسم        ,   Kasem        
+قبيصة       ,   Kobesa
+عبد الملاك   ,  Abd Elmalak
+قتادة       ,   Kotada
+قتيبة       ,   Kotayba
+قثم         ,   Kethm
+قداح        ,   Kedah
+قدامة       ,   Kodama
+قردحي       ,   Kordahi
+قدري        ,   Kadri
+قذلان       ,    Kazlan
+قس          ,   Kas
+قسام        ,   Kasam
+قسي         ,   Kasi
+قسيم        ,   Kasim
+قصي         ,   Kasi
+قطام        ,   Katam
+قطامي       ,   Katami
+قطب         ,   Kotb
+قعقاع       ,   Kaakan
+قنوت        ,   Kanout
+قيس         ,   Keis
+قيم         ,   Keim
+كائد        ,   Kaaed
+كارم        ,   Karem
+كاسب        ,   Kaseb
+كاسر        ,   Kaser
+كاظم        ,   Kazem
+كافل        ,   Kafel
+كافي        ,   Kafel
+كامل        ,   Kamel
+كثير        ,   Kasir
+كرام        ,   Karam
+كرم         ,   Karam
+كريم        ,   Karim
+كسار        ,   Kasar
+كعب         ,   Kaab
+كلاب            ,Kalab
+كلال    ,       Klaal
+كلدة    ,       Kalda
+كليب        ,   Kalib
+كليم        ,   Kalim
+كمال        ,   Kamal
+كميت        ,   Kamit
+كناز        ,   Kanaz
+كنان        ,   Kanaz
+كنعان       ,   Kanaan
+كهلان           ,Kanaan
+كواش        ,   Kawash
+لؤي         ,   Loai
+لادن        ,   Laden
+لباب        ,   Labaab
+لبيب        ,   Labeeb
+لبيد        ,   Labeed
+لطفي        ,   Lotfi
+لطيف        ,   Latif
+لقمان       ,   Lokman
+لماح        ,   Lamah
+لمعان       ,   Lamaan
+لمعي        ,   Lamei
+لميع        ,   Lamiei
+لهب         ,   Lahab
+لهبان       ,   Lahban
+لهيف        ,   Lahif
+لوزي        ,   Louzi
+ليث         ,   Laith
+مأمون       ,   Mamon
+مؤيد        ,   Moayed
+مائد        ,   Maed
+ماتع        ,   Matei
+ماجد        ,   Maged
+ساجد        ,   Saged
+مارسيل      ,   Marsel
+مازن        ,   Mazeen
+ماضي        ,   Madi
+مالك        ,   Maleek
+ماهر        ,   Maher
+مبارك       ,   Mobarak
+مبخوت       ,   Mabkhout
+مبرور       ,   Mabrour
+مبروك       ,   Mabrouk
+مبشر        ,   Mobsher
+مبين        ,   Mobayen
+مترف        ,   Motref
+متعب        ,   Motieb
+متمم        ,   Motmem
+مثاب        ,   Mothab
+مثوى        ,   Mothawi
+مجاهد       ,   Moghahed
+مجاور       ,   Mogawer
+مجتبى       ,   Mogtabi
+مجحم        ,   Moghem
+مجدي        ,   Magdi
+مجواد       ,   Megwad
+مجيب        ,   Mogeeb
+مجيد        ,   Mogeeb
+مجير        ,   Mogeer
+محبوب       ,   Mahboub
+محجن        ,   Mohgen
+محرز        ,   Mehrez
+محرم        ,   Moharam
+محسن        ,   Mohsein
+محسون       ,   Mahsoun
+محمد        ,   Mohamed
+محمود       ,   Mahmoud 
+محيا        ,   Mahia
+محي        ,   Mohi
+محى        ,   Mohi
+مخلد        ,   Mokhled
+مخلص        ,   Mokhles
+مخلف        ,   Mokhlef
+مدثر        ,   Modather
+مدحة        ,   Medha
+مدحت        ,   Medhat
+مدرك        ,   Modrek
+مدلج        ,   Madlag
+مديد        ,   Madid
+مراد        ,   Morad
+مراش        ,   Morash
+مرتجى       ,   Mortagi
+مرتضى       ,   Mortada
+مرثد        ,   Marthad
+مرحب        ,   Moraheb
+مرداس       ,   Merdas
+مرزوق       ,   Marzouk
+مرسي        ,   Morsi
+مرشد        ,   Morshid
+مرشدي       ,   Morshedi
+مرهج        ,   Morheg
+مرهف        ,   Morhaf
+مروان       ,   Marwan
+مزاحم       ,   Mozahem
+مزدلف       ,   Mozdalef
+مزن         ,   Mazan
+مازن         ,   Mazan
+مزهر        ,   Mazhar
+مساعد       ,   Mosaed
+مسافر       ,   Mosafer
+مستعين      ,   Mostaeen
+مستور       ,   Mastour
+مسعود       ,   Masoud
+مسفار       ,   Mesfar
+مسفر        ,   Mesfar
+مسلم        ,   Muslim
+مسلمة       ,   Musalama
+مسيب        ,   Musib  
+مشاري       ,   Mashary
+مشتاق       ,   Mushtak
+مشرف        ,   Mushref
+مشعل        ,   Mashaal
+مشكور       ,   Mashkour
+مصباح       ,   Musbah
+مصدق        ,   Musdak
+مصطفى       ,   Mustafa
+مصعب        ,   Musaab
+مصلح        ,   Musleh
+مضر         ,   Muder
+مطاع        ,   Mutaa
+مطاوع       ,   Mutawei
+مطر         ,   Matar
+مطلب        ,   Mutlab
+مطلق        ,   Mutlak
+مطير        ,   Mateer
+مطيع        ,   Mutee
+مظفر        ,   Muzfer
+مظهر        ,   Mazhar
+معاد        ,   Muaad
+معاذ        ,   Muaaz
+معاوية      ,   Muaweya
+معتصم       ,   Moatasem
+معتضد       ,   Moetaded
+معتوق       ,   Matouk
+معد         ,   Moed
+معدي كرب    ,   Moedy Karb    
+معروف       ,   Marouf
+معصوم       ,   Masoum
+معطي        ,   Moety
+معلوف       ,   Maluf
+معمر        ,   Moamer
+معن         ,   Moen
+عبد معين    ,   Abd Elmoeen
+مغوار       ,   Meghwar
+مغيث        ,   Moghees
+مغيرة       ,   Moghirah
+مفتاح       ,   Moftaah
+مقبل        ,   Mokbel
+مقتدر       ,   Moktader
+مقتدي       ,   Moktadi
+مقرن        ,   Mokren 
+مكتوم       ,   Maktoum
+مكين        ,   Mokin
+ملهب        ,   Molheb
+ملهم        ,   Molhem
+ممدوح       ,   Mamdouh
+مملوك       ,   Mamlouk
+مناح        ,   Mannah
+مناع        ,   Mannaa
+مناف        ,   Mannaf
+منان        ,   Manan
+منتصر       ,   Montasir
+منجد        ,   Monged
+منذر        ,   Monzer
+منصف        ,   Monsef
+منصور       ,   Mansour
+منظور       ,   Manzour
+منقذ        ,   Monkez
+منهل        ,   Manhal
+منيب        ,   Monuib
+منير        ,   Monuir
+منيع        ,   Manee
+مهاب        ,   Mohab
+مهابة       ,   Mohabah
+مهاجر       ,   Mohager
+مهدي        ,   Mahdi
+مهند        ,   Mohaned
+مهيب        ,   Moheeb
+مهير        ,   Moheer
+مهيوب       ,   Mahyoub
+مودود       ,   Mawdoud
+موسى        ,   Mousa
+موفق        ,   Mowafak
+مولود       ,   Mawloud
+موهوب       ,   Mawhoub
+مياد        ,   Mayaad
+ميار        ,   Mayaar
+مياس        ,   Mayaas
+ميثم        ,   Maytham
+ميلاد           ,Melad
+ميمون       ,   Maymoun
+نائل        ,   Naeel
+نابغ        ,   Nabegh
+ناجح        ,   Nageeh
+ناجد        ,   Naged
+ناجي        ,   Nagi
+نادر        ,   Nader
+ناشئ        ,   Nashek
+ناشد        ,   Nashed
+ناشر        ,   Nasher
+ناصح        ,   Naseh
+ناصر        ,   Nasser
+ناصر الدين  ,   Nasser Eldin
+ناصف        ,   Nassef
+ناصيف       ,   Naseef
+ناظم        ,   Nazem
+ناعم        ,   Naem
+نافح        ,   Nafeh
+نافع        ,   Nafea
+نامي        ,   Nami
+ناهض        ,   Nahed
+ناهل        ,   Nahel
+ناهي        ,   Nahi
+نبال        ,   Nebal
+نبيل        ,   Nabil
+نبيه        ,   Nabeeh
+نجا         ,   Naga
+نجاد        ,   Negad
+نجد         ,   Nagad
+نجدة        ,   Nagda
+نجدت        ,   Nagdat
+نجم         ,   Negm
+نجم الدين   ,   Negm eldin
+نجوان       ,   Nagwan
+نجيب        ,   Nagib
+نجيح        ,   Nageeh
+نجيد        ,   Nageed
+ندرة        ,   Nadrah
+نديم        ,   Nadim
+نذير        ,   Nazir
+نزار        ,   Nazar
+نزيه        ,   Nazyah
+نسيب        ,   Nasib
+نسيم        ,   Nasim
+نشأت        ,   Nashaat
+نشاة        ,   Nashah
+نشمي        ,   Nashmi
+نصاح        ,   Nassah
+نصار        ,   Nassar
+نصر         ,    Nasr
+نصرة        ,   Nasrah
+نصرت        ,   Nasrat
+نصوح        ,   Nasouh
+نصير        ,   Nasir
+نصيف        ,   Nasif
+نضال        ,   Nedal
+نضر         ,   Nadr
+نضير        ,   Nadir
+نظمي        ,   Nazmi
+نظير        ,   Nazir
+نظيف        ,   Nazif
+نعمان       ,   Nouman
+نعمة الله   ,   Neamat Allah
+نعمة        ,   Neamah
+نعمت        ,   Neamat
+نعيم        ,   Naeem
+نفيس        ,   Nafis
+نمر         ,   Nemr
+نمير        ,   Namir
+نميق        ,   Namik
+نهشل        ,   Nahshal
+نهيد        ,   Nahid
+نوار        ,   Nawar
+نواس        ,   Nawas
+نواف        ,   Nawaf
+نوح         ,   Nouh
+نور الدين   ,   Nur Eldeen
+نورس        ,   Noras
+نوري        ,   Noury
+نوفل        ,   Noufal
+نويرة       ,   Nouera
+هائل        ,   Hael
+هاجد        ,   Haged
+هادف        ,   Hadef
+هادي        ,   Hadi
+هاشم        ,   Hashim
+هانئ        ,   Hanie
+هاني        ,   Hani
+هبار        ,   Hubar
+هبيرة       ,   Habeera
+هجام        ,   Hugam
+هجرس        ,   Hagras
+هجيج        ,   Hagig
+هدايا       ,   Hadaya
+هديه       ,   Hedya
+هدية       ,   Hedya
+هدير        ,   Hadeer
+هراس        ,   Haras 
+هرثمة       ,   Hersama
+هريرة       ,   Hurayra
+هزاع        ,   Huzaa
+هشام        ,   Hesham
+هشيم        ,   Hashim
+هلال        ,   Helal
+هماس        ,   Hamas
+همام        ,   Hamam
+همة         ,   Hemah
+هنيء        ,   Hanie
+هواري       ,   Hawari
+هواس        ,   Hawas
+هود         ,   Houd
+هوزان       ,   Houzan
+هيثم        ,   Haitham
+هيصر        ,   Haithar
+هيمان       ,   Himan
+وادع        ,   Wadaa
+وارف        ,   Waref
+وديع        ,   Wadie
+ورد         ,   Ward
+وريد        ,   Warid
+وسام        ,   Wesam
+وسيم        ,   Wasim
+وفيق        ,   Wafik
+ولاء    ,   Walaa
+الدين       ,   Eldin
+ولهان       ,   Walhan
+وليد        ,   Walid
+وليف        ,   Walif
+وميض        ,   Wamid
+ونوس        ,   Wanous
+وهب         ,   Wahb
+وهبة        ,   Wahba
+وهيب        ,   Wahib
+ياسر        ,   Yasser
+ياسين       ,   Yassin
+يحيى        ,   Yehia
+يعقوب       ,   Yaakob
+يونس        ,   Younes
+آلاء            ,Alaa
+الاء            ,Alaa
+ألاء            ,Alaa
+آمال        ,   Amal
+امال        ,   Amal
+أمال        ,   Amal
+آمنة        ,   Amena
+امنة        ,   Amena
+أمنة        ,   Amena
+آيات        ,   Ayat
+ايات        ,   Ayat
+أيات        ,   Ayat
+آية         ,   Aya
+اية         ,   Aya
+أية         ,   Aya
+آيلا        ,   Ayla
+ايلا        ,   Ayla
+ايلا        ,   Ayla
+أبرار       ,   Abrar
+ابرار       ,   Abrar
+أثيل        ,   Assel
+ثيل        ,   Assel
+أجوان       ,   Agwan
+أحلام       ,   Ahlam
+أروى        ,   Arwa
+أريج        ,   Areeh
+أزهار      ,    Azmar 
+أسارير      ,   Asarer
+أسماء       ,   Asmaa
+أسمى        ,   Asma
+أسيل        ,   Aseel
+أشجان       ,   Ashgan
+أطياف       ,   Atyaf
+أغاريد      ,   Agharid
+أفراح       ,   Afrah
+أفكار       ,   Afkar
+أفنان       ,   Afnan
+ألطاف       ,   Altaf
+ألوف        ,   Alouf
+أم كلثوم    ,   Om Kolthom
+أمارة       ,   Amara
+أمال        ,   Amal
+أمامة       ,   Amama
+أماميان     ,   Amameyan
+أمانة       ,   Amana
+أماني       ,   Amana
+أمرات       ,   Amarat
+أملة        ,   Amla
+أمنية       ,   Amina
+أمورة       ,   Amoura
+أمونة       ,   Amouna
+أمية        ,   Ameya
+أميرة       ,   Amira
+أميمة       ,   Omima
+أميمية      ,   Omimya
+أمينة       ,   Amina
+أناة        ,   Anah
+أنار        ,   Anar
+أنارات      ,   Anarat
+أنسام       ,   Ansam
+أنسة        ,   Anesa
+أنسوقة      ,   Ansouka
+أنشودة      ,   Anshouda
+أنصار       ,   Ansar
+أنظار       ,   Anzar
+أنظام       ,   Anzam
+أنغم        ,   Angham
+أنوار       ,   Anwar
+أنوس        ,   Anous
+أنوف        ,   Anouf
+أنيسة       ,   Anisa
+أهداف       ,   Ahdaf
+أوبية       ,   Awbeya
+أودة        ,   Awda
+أوسال       ,   Awsal
+أوصاف       ,   Awsaf
+أوصال       ,   Awsal
+أولياء      ,   Awlyaa
+أوها        ,   Awha
+إباء        ,   Ibaa
+إجلال       ,   Eglal
+إحسان       ,   Ehsan
+إخلاص       ,   Ekhlas
+إدراك       ,   Edrak
+إسراء       ,   Esraa
+إسعاد       ,   Esaad
+إسعاف       ,   Esaaf
+إشراف       ,   Esharaf
+إصلاح       ,   Eslah
+إعزاز       ,   Ezaz
+إقبال       ,   Ekbal
+إقدام       ,   Ekdam
+إكرام       ,   Ekram
+إكليل       ,   Eklil
+إمداد       ,   Emdad
+إمهال       ,   Emhal
+إناس        ,   Enas
+إنجاح       ,   Engah
+إنشاد       ,   Endshad
+إنصاف       ,   Ensaf
+إنعام       ,   Enaam
+إهداف       ,   Ehdaf
+إهلال       ,   Ehlal
+إيتاء       ,   Itaa
+إيثار       ,   Ithar
+إيحاء       ,   Ihaa
+إيداع       ,   Ibda
+إيضاح       ,   Idah
+إيفاء       ,   Ifaa
+إيماء       ,   Imaa
+إيمان       ,   Iman
+إيناس       ,   Inas
+ابتسام      ,   Ebtesam
+ابتهاج      ,   Ebtehag
+ابتهال      ,   Ebtehal
+اجتهاد      ,   Egtehad
+احتشام      ,   Ehtesham
+ازدهار      ,   Ezdehar
+اعتدال      ,   Etedal
+اعتماد      ,   Eatemad
+افتخار      ,   Eftekhar
+افتكار      ,   Eftekar
+الحدة       ,   Alheda
+الدرداء     ,   Aldarda
+السعدية     ,   Alsadeya
+السكينة     ,   Alsakina
+النعيمة     ,   Alnaeema
+امتثال      ,   Emtethal
+امتياز      ,   Emteyaz
+انبساط      ,   Enbesat
+انبهاج      ,   Enbehag
+انتصار      ,   Entesar
+انتظار      ,   Entezar
+انتهاء      ,   Entehaa
+انجرار      ,   Engerar
+انسجام      ,   Ensegam
+انشراح      ,   Ensherah
+انشراف      ,   Ensheraf
+انشقار      ,   Enshekar
+انفصال      ,   Enfesal
+بائقة       ,   Baeika
+بادرة       ,   Bareda
+بارزة       ,   Bareza
+بارعة       ,   Bareah
+باركة       ,   Bareka
+بارية       ,   Bareya
+بازعة       ,   Bazeaa
+باسة        ,   Basah
+باسطة       ,   Baseta
+باسقة       ,   Baseka
+باسلة       ,   Basela
+بتول        ,   Batoul
+بثينة       ,   Bathina
+بحرية       ,   Baherya
+براء        ,   Baraa
+بسمة        ,   Basma
+بسيمة       ,   Basima
+بشرى        ,   Boushra
+بشيرة       ,   Bashira
+بلقيس       ,   Balkis
+بليغة       ,   Baligha
+بهيجة       ,   Bahga
+بهيسة       ,   Bahisa
+تانيا       ,   Tanya
+تغاني       ,   Taghani
+تمارة       ,   Tamara
+تماضر       ,   Tamader
+تنال        ,   Tanal
+تودد        ,   Tawadod
+تيسير       ,   Tayseer
+تيماء       ,   Taymaa
+تيمة        ,   Tima
+ثراء        ,   Tharaa
+ثوابة       ,   Thawaba
+ثوبة        ,   Thawba
+ثويبة       ,   Thawbeya
+جبرة        ,   Gabra
+جبلة        ,   Gabla
+جمانة       ,   Jomana
+جميلة       ,   Gamila
+جيداء       ,   Jayda
+جيهان       ,   Gehan
+حجاب        ,   Hegab
+حدة         ,   Heda
+حدية        ,   Hedya
+حسنية       ,   Husneya
+حفصة        ,   Hafsa
+حليمة       ,   Halima
+حنيفة       ,   Hanifa
+حوراء       ,   Horaa
+حورية       ,   Horeya
+حياة        ,   Hayah
+خديجة       ,   Khadiga
+خزامى       ,   Khozami
+خولة        ,   Khawla
+داليا       ,   Dalia
+دانا        ,   Dana
+دانية       ,   Danya
+دعجاء       ,   Dagaa
+دنيا        ,   Doneya
+ذبيانة      ,   Zobyana
+ذكية        ,   Zakia
+راتبة       ,   Rateba
+راجحة       ,   Rageha
+راسخة       ,   Rasekha
+راغبة       ,   Ragheba
+رافقة       ,   Rafeka
+رافية       ,   Rafeya
+راقية       ,   Rakeya
+رامة        ,   Rama
+رانيا       ,   Rania
+رباعي       ,   Robai
+ربعة        ,   Rabaa
+ربى         ,   Roba
+رجب         ,   Ragab
+رجيحة       ,   Ragiha
+رحاب        ,   Rahab
+رخاء        ,   Rakha
+رداح        ,   Redah
+ردينة       ,   Radina
+رزان        ,   Razan
+رزينة       ,   Razina
+رسمية       ,   Rasmeya
+رشا         ,   Rasha
+رشيقة       ,   Rashika
+رصينة       ,   Rasina
+رضا         ,   Reda
+رضوة        ,   Radwa
+رغد         ,   Raghd
+رفيدة       ,   Rofayda
+رفيعة       ,   Rafia
+رفيف        ,   Rafif
+رقية        ,   Rokaya
+رنا         ,   Rana
+رنيم        ,   Ranim
+رهام        ,   Reham
+رهيفة       ,   Rahifa
+رولا        ,   Rahifa
+ريا         ,   Raya
+رياض        ,   Reyad
+ريتا        ,   Rita
+ريحانة      ,   Rihana
+ريم         ,   Reem
+ريما        ,   Rema
+زبيدة       ,   Zobayda
+زكية        ,   Zakia
+زهرة        ,   Zahra
+زهور        ,   Zohoor
+زيانة       ,   Ziyana
+زينب        ,   Zeinab
+سؤدد        ,   Soadad
+سارة        ,   Sara
+سالي        ,   Sali
+سامية       ,   Samia
+ساندرا      ,   Sandra
+ساهدة       ,   Sahda
+ساهرة       ,   Sahra
+سبيعة       ,   Sabiaa
+سجى         ,   Saga
+سحر         ,   Sahar
+سدر         ,   Sadr
+سرى         ,   Sara
+سعاد        ,   Souad
+سعدة        ,   Sada
+سعيدة       ,   Saeeda
+سفيانة      ,   Sofyana
+سكين        ,   Sakina
+سكينة       ,   Sakina
+سلامة       ,   Salama
+سلطانة      ,   Soltana
+سلمى        ,   Salma
+سلوى        ,   Salwa
+سمة         ,   Sama
+سمر         ,   Samar
+سمراء       ,   Samraa
+سمية        ,   Somaia
+سميحة       ,   Sameeha
+سميرة       ,   Samira
+سناء        ,   Sanaa
+سندس        ,   Sondos
+سنيحة       ,   Saniha
+سهاد        ,   Sohad
+سهى         ,   Soha
+سهيلة       ,   Sohayla
+سونيا       ,   Sonia 
+شارد        ,   Sharid
+شاكرة       ,   Shaker
+شاهدة       ,   Shaheda
+شاهرة       ,   Shahera
+شريفة       ,   Sherifa
+شكرية       ,   Shokreya
+شهلاء       ,   Shalaa
+شيماء       ,   Shaima
+صائنة       ,   Saena
+صابرة       ,   Sabera
+صبا         ,   Saba
+صريحة       ,   Sariha
+صفا         ,   Safa
+صفاء        ,   Safa
+صفية        ,   Safia
+ضارعة       ,   Dareaa
+ضياء        ,   Deya
+طامحة       ,   Tameha
+طريفة       ,   Tareefa
+ظافرة       ,   Zafera
+ظعينة       ,   Zaina
+عائذة       ,   Aeiza
+عائشة       ,   Eisha
+عابدة       ,   Abeda
+عاطفة       ,   Atefa
+عايدة       ,   Aida
+عبادة       ,   Ebada
+عبلة        ,   Abla
+عبير        ,   Abeer
+عتابة       ,   Etaba
+عزيزة       ,   Azeeza
+عشير        ,   Asheer
+عفاف        ,   Afaf
+علجية       ,   Aliga
+علياء       ,   Alia
+غادة        ,   Ghada
+غريبة       ,   Ghariba
+غلا         ,   Ghola
+غناء        ,   Ghenaa
+غيد         ,   Gheid
+غيداء       ,   Ghida
+فائقة       ,   Faeka
+فاتن        ,   Faten
+فادية       ,   Fadia
+فاطمة       ,   Fatima
+فتيحة       ,   Fatiha
+فخرية       ,   Fakhreya
+فرح         ,   Farah
+فردوس       ,   Ferdos
+فريدة       ,   Farida
+فصيحة       ,   Fasiha
+فضل         ,   Fadl
+فكرية       ,   Fekrya
+فلوة        ,   Flwa
+فنن         ,   Fanan
+فهيمة       ,   Fahima
+فوزية       ,   Fawzeya
+فيروز       ,   Fayrooz
+فيضية       ,   Faydeya
+قطام        ,   Katam
+قنوت        ,   Kanout
+كاتيا       ,   Katya
+كارينا      ,   Karina
+كاظمة       ,   Kazema
+كاملة       ,   Kamela
+كبرى        ,   Kobra
+كريمة       ,   Karima
+كفى         ,   Kafa
+كنزى        ,   Kenzi
+لؤلؤة       ,   Loaloa
+لارا        ,   Lara
+لانا        ,   Lana
+لبانة       ,   Lobana
+لجينة       ,   Logaina
+لذة         ,   Laza
+لطفية       ,   Latifa
+لمى         ,   Loma
+لمياء       ,   Lamya
+لميس        ,   Lamis
+لهيفة       ,   Lahifa
+لوزت        ,   Lawzat
+ليال        ,   Leyal
+ليلى        ,   Laila
+لينا        ,   Lina
+مارسيل      ,   Marsel
+ماهة        ,   Mahah
+ماهرة       ,   Mahera
+مبروكة      ,   Mabrouka
+متام        ,   Metam
+مثابة       ,   Mathaba
+مجاهدة      ,   Megahda
+مجيبة       ,   Mogiba
+مجيدة       ,   Mogida
+مخلصة       ,   Mokhlesa
+مدركة       ,   Modreka
+مديدة       ,   Madida
+مرح         ,   Marah
+مرحب        ,   Marhab
+مرهفة       ,   Morhafa
+مروة        ,   Marwa
+مروى        ,   Marwa
+مريم        ,   Mariam
+مزينة       ,   Mazina
+مساعدة      ,   Mosaed
+مسفرة       ,   Mosfera
+مصلحة       ,   Maslha
+مطاعة       ,   Motah
+مطيعة       ,   Motiah
+معطوب       ,   Matoub
+معطية       ,   Moetia
+معينة       ,   Moeina
+مغيثة       ,   Moghitha
+مقبلة       ,   Mokbela
+ملاك        ,   Malak
+ملاكة       ,   Malaka
+ملهمة       ,   Molhema
+مليكة       ,   Malika
+ممدوحة      ,   Mamdouha
+مناحة       ,   Manaha
+مناصف       ,   Monasef
+منذرة       ,   Monzera
+منصفة       ,   Monsefa
+منى         ,   Mona
+منيبة       ,   Moniba
+منيرة       ,   Monira
+مها         ,   Maha
+مهيبة       ,   Mohiba
+ميا         ,   Maya
+ميادة       ,   Mayada
+ميرا        ,   Mira
+ميساء       ,   Maisaa
+ميسون       ,   Maysoon
+ميلا        ,   Mila
+ميليسا      ,   Milisa
+ميمونة      ,   Maymouna
+مينا        ,   Mina
+ناتاشا      ,   Natasha
+ناجحة       ,   Nageha
+ناجدة       ,   Nageda
+نادية       ,   Nadia
+نادين       ,   Nadine
+ناشئة       ,   Nasheaa
+ناصحة       ,   Naseha
+ناهية       ,   Nahia
+نبيلة       ,   Nabila
+نبيهة       ,   Nabiha
+نجلاء       ,   Nagla
+نجوانة      ,   Nagwana
+نجيبة       ,   Nagiba
+نجيحة       ,   Nagiha
+نداء        ,   Nedaa
+ندرة        ,   Nadra
+ندى         ,   Nada
+نزيهة       ,   Nazeeha
+نسرين       ,   Nesreen
+نسيم        ,   Nasim
+نصاحة       ,   Nasaha
+نصر         ,   Nasr
+نضال        ,   Nedal
+نظيرة       ,   Nazira   
+نعيم        ,   Naeem
+نهال        ,   Nehal
+نهى         ,   Noha
+نوار        ,   Nawar
+نوال        ,   Nawal
+نورا        ,   Noura
+نورة        ,   Nourah
+نورس        ,   Nouras
+نورهان      ,   Nourhan
+هائلة       ,   Haeila
+هاجر        ,   Hagar
+هالة        ,   Hala
+هانئة       ,   Haneia
+هبة         ,   Heba
+هدى         ,   Huda
+هديل        ,   Hadeel
+هريرة       ,   Huraira
+هند         ,   Hend
+هيفاء       ,   Haifa
+وداد        ,   Wadoud
+وديعة       ,   Wadia
+ورد         ,   Ward
+وسام        ,   Wesam
+وسيمة       ,   Wasima
+وضحى        ,   Wadha
+وفاء        ,   Wafaa
+وفيقة       ,   Wafika
+ولهانة      ,   Walhan
+وليفة       ,   Walifa
+وميض        ,   Wamid
+وهبة        ,   Wahba
+يارا        ,   Yara
+ياسمين      ,   Yasmin
+يسرا        ,   Yousra
+ريوان       ,   Rewan
+Sawsan , سوسن
